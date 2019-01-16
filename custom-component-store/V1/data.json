@@ -1,560 +1,345 @@
 {
-    "binary_sensor.hadockermon": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/binary_sensor.hadockermon",
-        "description": "A custom binary_sensor platform which allows you get sensor data from ha-dockermon.",
-        "embedded": false,
-        "embedded_path": "/custom_components/hadockermon/binary_sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/binary_sensor.hadockermon/master/custom_components/hadockermon/binary_sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/binary_sensor/hadockermon.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/binary_sensor.hadockermon/master/custom_components/binary_sensor/hadockermon.py",
-        "updated_at": "2018-07-20",
-        "version": "0.0.3",
-        "visit_repo": "https://github.com/custom-components/binary_sensor.hadockermon"
-    },
-    "camera.combined": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/camera.combined/releases/tag/0.0.1",
-        "description": "A camera platform that give you a combined feed of your defined camera entities.",
-        "embedded": false,
-        "embedded_path": "/custom_components/combined/camera.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/combined/camera.py",
-        "image_link": "",
-        "local_location": "/custom_components/camera/combined.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/camera/combined.py",
-        "updated_at": "2019-01-03",
+    "aftership-card": {
+        "changelog": "https://github.com/custom-cards/aftership-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/aftership-card/master/aftership-card.js",
+        "updated_at": "2018-08-18",
         "version": "0.0.1",
-        "visit_repo": "https://github.com/custom-components/camera.combined"
+        "visit_repo": "https://github.com/custom-cards/aftership-card"
     },
-    "camera.multisource": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/camera.multisource/releases/tag/0.3.0",
-        "description": "A camera platform that generate a camera feed from multiple sources.",
-        "embedded": false,
-        "embedded_path": "/custom_components/multisource/camera.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/camera.multisource/master/custom_components/multisource/camera.py",
-        "image_link": "",
-        "local_location": "/custom_components/camera/multisource.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/camera.multisource/master/custom_components/camera/multisource.py",
-        "updated_at": "2018-08-23",
-        "version": "0.3.0",
-        "visit_repo": "https://github.com/custom-components/camera.multisource"
+    "alarm_control_panel-card": {
+        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/alarm_control_panel-card/changelog.md",
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/alarm_control_panel-card/alarm_control_panel-card.js",
+        "updated_at": null,
+        "version": "0.4.0",
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/alarm_control_panel-card"
     },
-    "camera.unsplash": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/camera.unsplash/releases/tag/0.4.2",
-        "description": "A camera platform that give you random images from Unsplash presented as a camera feed.",
-        "embedded": false,
-        "embedded_path": "/custom_components/unsplash/camera.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/camera.unsplash/master/custom_components/unsplash/camera.py",
-        "image_link": "https://raw.githubusercontent.com/custom-components/camera.unsplash/master/example.png",
-        "local_location": "/custom_components/camera/unsplash.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/camera.unsplash/master/custom_components/camera/unsplash.py",
-        "updated_at": "2019-01-16",
-        "version": "0.4.2",
-        "visit_repo": "https://github.com/custom-components/camera.unsplash"
+    "beer-card": {
+        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/beer-card/changelog.md",
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/beer-card/beer-card.js",
+        "updated_at": null,
+        "version": "0.2.3",
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/beer-card"
     },
-    "climate.e_thermostaat": {
-        "author": {
-            "html_url": "https://github.com/gerard33",
-            "login": "gerard33"
-        },
-        "changelog": "https://github.com/custom-components/climate.e_thermostaat",
-        "description": "E-Thermostaat (ICY) component for Home Assistant",
-        "embedded": false,
-        "embedded_path": "/custom_components/e_thermostaat/climate.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/e_thermostaat/climate.py",
-        "image_link": "",
-        "local_location": "/custom_components/climate/e_thermostaat.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/climate/e_thermostaat.py",
-        "updated_at": "2018-08-28",
-        "version": "0.2.0",
-        "visit_repo": "https://github.com/custom-components/climate.e_thermostaat"
-    },
-    "custom_updater": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/custom_updater/releases/tag/3.1.8",
-        "description": ":package: A component which allows you to track and update custom cards/components and python_scripts",
-        "embedded": true,
-        "embedded_path": "/custom_components/custom_updater.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
-        "image_link": "",
-        "local_location": "/custom_components/custom_updater.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
-        "updated_at": "2019-01-15",
-        "version": "3.1.8",
-        "visit_repo": "https://github.com/custom-components/custom_updater"
-    },
-    "device_tracker.composite": {
-        "author": {
-            "html_url": "https://github.com/pnbruckner",
-            "login": "pnbruckner"
-        },
-        "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/composite.md#release-notes",
-        "description": "A Device Tracker platform that combines one or more device trackers. ",
-        "embedded": false,
-        "embedded_path": "/custom_components/composite/device_tracker.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/device_tracker.py",
-        "local_location": "/custom_components/device_tracker/composite.py",
-        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/device_tracker/composite.py",
-        "updated_at": "2018-11-09",
-        "version": "1.6.0",
-        "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
-    },
-    "device_tracker.life360": {
-        "author": {
-            "html_url": "https://github.com/pnbruckner",
-            "login": "pnbruckner"
-        },
-        "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/life360.md#release-notes",
-        "description": "A Device Tracker platform that retrieves location from Life360. ",
-        "embedded": false,
-        "embedded_path": "/custom_components/life360/device_tracker.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/device_tracker.py",
-        "local_location": "/custom_components/device_tracker/life360.py",
-        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/device_tracker/life360.py",
-        "updated_at": "2018-11-30",
-        "version": "2.3.1",
-        "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
-    },
-    "hassbian_config": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/hassbian_config/releases/tag/2.0.1",
-        "description": "A custom component which allows you to controll some hassbian-config functions from Home Assistant.",
-        "embedded": true,
-        "embedded_path": "/custom_components/hassbian_config.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config.py",
-        "image_link": "",
-        "local_location": "/custom_components/hassbian_config.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config.py",
-        "updated_at": "2018-09-08",
-        "version": "2.0.1",
-        "visit_repo": "https://github.com/custom-components/hassbian_config"
-    },
-    "lists": {
-        "author": {
-            "html_url": "https://github.com/iantrich",
-            "login": "iantrich"
-        },
-        "changelog": "https://github.com/custom-components/lists",
-        "description": null,
-        "embedded": true,
-        "embedded_path": "/custom_components/lists.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/lists/master/custom_components/lists.py",
-        "image_link": "",
-        "local_location": "/custom_components/lists.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/lists/master/custom_components/lists.py",
-        "updated_at": "2019-01-10",
+    "beer-wishlist-card": {
+        "changelog": "https://github.com/custom-cards/beer-wishlist-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/beer-wishlist-card/master/beer-wishlist-card.js",
+        "updated_at": "2018-08-07",
         "version": null,
-        "visit_repo": "https://github.com/custom-components/lists"
+        "visit_repo": "https://github.com/custom-cards/beer-wishlist-card"
     },
-    "media_player.braviatv_psk": {
-        "author": {
-            "html_url": "https://github.com/gerard33",
-            "login": "gerard33"
-        },
-        "changelog": "https://github.com/custom-components/media_player.braviatv_psk",
-        "description": "Sony Bravia TV (Pre-Shared Key) component for Home Assistant",
-        "embedded": false,
-        "embedded_path": "/custom_components/braviatv_psk/media_player.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/media_player.py",
-        "image_link": "",
-        "local_location": "/custom_components/media_player/braviatv_psk.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/media_player/braviatv_psk.py",
-        "updated_at": "2019-01-11",
-        "version": "0.2.4",
-        "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk"
-    },
-    "sensor.authenticated": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/sensor.authenticated/releases/tag/0.4.0",
-        "description": "A platform which allows you to get information about sucessfull logins to Home Assistant.",
-        "embedded": false,
-        "embedded_path": "/custom_components/authenticated/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/authenticated/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/authenticated.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/sensor/authenticated.py",
-        "updated_at": "2019-01-10",
-        "version": "0.4.0",
-        "visit_repo": "https://github.com/custom-components/sensor.authenticated"
-    },
-    "sensor.brewdog": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/sensor.brewdog",
-        "description": "A sensor that give you information about a random Brewdog beer.",
-        "embedded": true,
-        "embedded_path": "/custom_components/brewdog/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.brewdog/master/custom_components/brewdog/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/brewdog.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.brewdog/master/custom_components/sensor/brewdog.py",
-        "updated_at": "2019-01-15",
-        "version": "0.1.0",
-        "visit_repo": "https://github.com/custom-components/sensor.brewdog"
-    },
-    "sensor.custom_aftership": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/sensor.custom_aftership/releases/tag/0.4.0",
-        "description": "A component which allows you to get information about pending parcels.",
-        "embedded": true,
-        "embedded_path": "/custom_components/custom_aftership/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.custom_aftership/master/custom_components/custom_aftership/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/custom_aftership.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.custom_aftership/master/custom_components/sensor/custom_aftership.py",
-        "updated_at": "2019-01-16",
-        "version": "0.4.0",
-        "visit_repo": "https://github.com/custom-components/sensor.custom_aftership"
-    },
-    "sensor.feedparser": {
-        "author": {
-            "html_url": "https://github.com/iantrich",
-            "login": "iantrich"
-        },
-        "changelog": "https://github.com/custom-components/sensor.feedparser",
-        "description": "\ud83d\udcf0 RSS feed custom component for Home Assistant",
-        "embedded": false,
-        "embedded_path": "/custom_components/feedparser/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/feedparser/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/feedparser.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/sensor/feedparser.py",
-        "updated_at": "2019-01-14",
-        "version": "0.0.3",
-        "visit_repo": "https://github.com/custom-components/sensor.feedparser"
-    },
-    "sensor.geoip": {
-        "author": {
-            "html_url": "https://github.com/swetoast",
-            "login": "swetoast"
-        },
-        "changelog": "https://github.com/custom-components/sensor.geoip",
-        "description": null,
-        "embedded": false,
-        "embedded_path": "/custom_components/geoip/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.geoip/master/custom_components/geoip/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/geoip.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.geoip/master/custom_components/sensor/geoip.py",
-        "updated_at": "2018-08-29",
+    "bignumber-card": {
+        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/bignumber-card/changelog.md",
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/bignumber-card/bignumber-card.js",
+        "updated_at": null,
         "version": "0.0.1",
-        "visit_repo": "https://github.com/custom-components/sensor.geoip"
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/bignumber-card"
     },
-    "sensor.illuminance": {
-        "author": {
-            "html_url": "https://github.com/pnbruckner",
-            "login": "pnbruckner"
-        },
-        "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/illuminance.md#release-notes",
-        "description": "A Sensor platform that estimates outdoor illuminance from Weather Underground, YR or Dark Sky current conditions.",
-        "embedded": false,
-        "embedded_path": "/custom_components/illuminance/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/sensor.py",
-        "local_location": "/custom_components/sensor/illuminance.py",
-        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/sensor/illuminance.py",
+    "browser-commander": {
+        "changelog": "https://github.com/thomasloven/lovelace-browser-commander",
+        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-browser-commander/master/browser-commander.js",
+        "updated_at": "2019-01-12",
+        "version": "b48257",
+        "visit_repo": "https://github.com/thomasloven/lovelace-browser-commander"
+    },
+    "button-entity-row": {
+        "changelog": "https://github.com/custom-cards/button-entity-row",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/button-entity-row/master/button-entity-row.js",
+        "updated_at": "2019-01-12",
+        "version": "v0.1.3",
+        "visit_repo": "https://github.com/custom-cards/button-entity-row"
+    },
+    "canvas-gauge-card": {
+        "changelog": "https://github.com/custom-cards/canvas-gauge-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/canvas-gauge-card/master/canvas-gauge-card.js",
         "updated_at": "2019-01-11",
-        "version": "2.0.1",
-        "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
+        "version": "0.0.2",
+        "visit_repo": "https://github.com/custom-cards/canvas-gauge-card"
     },
-    "sensor.krisinformation": {
-        "author": {
-            "html_url": "https://github.com/isabellaalstrom",
-            "login": "isabellaalstrom"
-        },
-        "changelog": "https://github.com/isabellaalstrom/sensor.krisinformation",
-        "description": "A custom component for Home Assistant to get messages from krisinformation.se",
-        "embedded": false,
-        "embedded_path": "/custom_components/krisinformation/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/krisinformation/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/krisinformation.py",
-        "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/sensor/krisinformation.py",
+    "card-modder": {
+        "changelog": "https://github.com/thomasloven/lovelace-card-modder",
+        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-modder/master/card-modder.js",
+        "updated_at": "2019-01-16",
+        "version": "35eb37",
+        "visit_repo": "https://github.com/thomasloven/lovelace-card-modder"
+    },
+    "card-tools": {
+        "changelog": "https://github.com/thomasloven/lovelace-card-tools",
+        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-tools/master/card-tools.js",
+        "updated_at": "2019-01-12",
+        "version": "6ce5d0",
+        "visit_repo": "https://github.com/thomasloven/lovelace-card-tools"
+    },
+    "circle-sensor-card": {
+        "changelog": "https://github.com/custom-cards/circle-sensor-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/circle-sensor-card/master/circle-sensor-card.js",
+        "updated_at": "2019-01-16",
+        "version": "1.2.0",
+        "visit_repo": "https://github.com/custom-cards/circle-sensor-card"
+    },
+    "color-glance-card": {
+        "changelog": "https://github.com/thomasloven/lovelace-color-glance-card",
+        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-color-glance-card/master/color-glance-card.js",
+        "updated_at": "2018-11-07",
+        "version": "4717b8",
+        "visit_repo": "https://github.com/thomasloven/lovelace-color-glance-card"
+    },
+    "column-card": {
+        "changelog": "https://github.com/thomasloven/lovelace-column-card",
+        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-column-card/master/column-card.js",
+        "updated_at": "2018-12-02",
+        "version": "c8c80f",
+        "visit_repo": "https://github.com/thomasloven/lovelace-column-card"
+    },
+    "compact-custom-header": {
+        "changelog": "https://github.com/maykar/compact-custom-header/releases/tag/0.2.7",
+        "remote_location": "https://raw.githubusercontent.com/maykar/compact-custom-header/master/compact-custom-header.js",
+        "updated_at": "2019-01-15",
+        "version": "0.2.7",
+        "visit_repo": "https://github.com/maykar/compact-custom-header"
+    },
+    "entity-attributes-card": {
+        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/entity-attributes-card/changelog.md",
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/entity-attributes-card/entity-attributes-card.js",
+        "updated_at": null,
+        "version": "0.1.1",
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/entity-attributes-card"
+    },
+    "ext-weblink": {
+        "changelog": "https://github.com/custom-cards/ext-weblink",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/ext-weblink/master/ext-weblink.js",
+        "updated_at": "2018-11-06",
+        "version": "0.3.2",
+        "visit_repo": "https://github.com/custom-cards/ext-weblink"
+    },
+    "flex-table-card": {
+        "changelog": "https://github.com/custom-cards/flex-table-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/flex-table-card/master/flex-table-card.js",
+        "updated_at": "2019-01-15",
+        "version": "0.4.0",
+        "visit_repo": "https://github.com/custom-cards/flex-table-card"
+    },
+    "fold-entity-row": {
+        "changelog": "https://github.com/thomasloven/lovelace-fold-entity-row",
+        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fold-entity-row/master/fold-entity-row.js",
+        "updated_at": "2019-01-16",
+        "version": "1cb484",
+        "visit_repo": "https://github.com/thomasloven/lovelace-fold-entity-row"
+    },
+    "fullykiosk": {
+        "changelog": "https://github.com/thomasloven/lovelace-fullykiosk",
+        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fullykiosk/master/fullykiosk.js",
+        "updated_at": "2019-01-16",
+        "version": "96feda",
+        "visit_repo": "https://github.com/thomasloven/lovelace-fullykiosk"
+    },
+    "gauge-card": {
+        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/gauge-card/changelog.md",
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/gauge-card/gauge-card.js",
+        "updated_at": null,
+        "version": "0.2.0",
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/gauge-card"
+    },
+    "group-card": {
+        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/group-card/changelog.md",
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/group-card/group-card.js",
+        "updated_at": null,
+        "version": "0.0.2",
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/group-card"
+    },
+    "home-setter": {
+        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/home-setter/changelog.md",
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/home-setter/home-setter.js",
+        "updated_at": null,
+        "version": "0.0.1",
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/home-setter"
+    },
+    "homeassistant-gen": {
+        "changelog": "https://github.com/thomasloven/homeassistant-lovelace-gen",
+        "remote_location": "https://raw.githubusercontent.com/thomasloven/homeassistant-lovelace-gen/master/homeassistant-gen.js",
+        "updated_at": "2019-01-15",
+        "version": "29a60d",
+        "visit_repo": "https://github.com/thomasloven/homeassistant-lovelace-gen"
+    },
+    "krisinfo-card": {
+        "changelog": "https://github.com/isabellaalstrom/krisinfo-card",
+        "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/krisinfo-card/master/krisinfo-card.js",
         "updated_at": "2019-01-14",
         "version": "0.0.4",
-        "visit_repo": "https://github.com/isabellaalstrom/sensor.krisinformation"
+        "visit_repo": "https://github.com/isabellaalstrom/krisinfo-card"
     },
-    "sensor.owlintuition": {
-        "author": {
-            "html_url": "https://github.com/glpatcern",
-            "login": "glpatcern"
-        },
-        "changelog": "https://github.com/custom-components/sensor.owlintuition",
-        "description": "A set of sensors to integrate the OWL Intuition devices network",
-        "embedded": false,
-        "embedded_path": "/custom_components/owlintuition/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.owlintuition/master/custom_components/owlintuition/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/owlintuition.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.owlintuition/master/custom_components/sensor/owlintuition.py",
-        "updated_at": "2019-01-14",
-        "version": "1.2.1",
-        "visit_repo": "https://github.com/custom-components/sensor.owlintuition"
+    "layout-card": {
+        "changelog": "https://github.com/thomasloven/lovelace-layout-card",
+        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-layout-card/master/layout-card.js",
+        "updated_at": "2019-01-15",
+        "version": "bd7e5a",
+        "visit_repo": "https://github.com/thomasloven/lovelace-layout-card"
     },
-    "sensor.personalcapital": {
-        "author": {
-            "html_url": "https://github.com/iantrich",
-            "login": "iantrich"
-        },
-        "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/tag/v0.0.1",
-        "description": "\ud83d\udcb5 Personal Capital component for Home Assistant",
-        "embedded": false,
-        "embedded_path": "/custom_components/personalcapital/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/personalcapital/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/personalcapital.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/sensor/personalcapital.py",
-        "updated_at": "2019-01-14",
-        "version": "0.1.0",
-        "visit_repo": "https://github.com/custom-components/sensor.personalcapital"
-    },
-    "sensor.plex_recently_added": {
-        "author": {
-            "html_url": "https://github.com/maykar",
-            "login": "maykar"
-        },
-        "changelog": "https://github.com/custom-components/sensor.plex_recently_added/releases/tag/0.2.1",
-        "description": "Plex component to feed the Upcoming Media Card for Home Assistant.",
-        "embedded": false,
-        "embedded_path": "/custom_components/plex_recently_added/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/plex_recently_added/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/plex_recently_added.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/sensor/plex_recently_added.py",
-        "updated_at": "2019-01-16",
-        "version": "0.2.1",
-        "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added"
-    },
-    "sensor.radarr_upcoming_media": {
-        "author": {
-            "html_url": "https://github.com/maykar",
-            "login": "maykar"
-        },
-        "changelog": "https://github.com/custom-components/sensor.radarr_upcoming_media",
-        "description": "Radarr component to feed the Upcoming Media Card for Home Assistant.",
-        "embedded": false,
-        "embedded_path": "/custom_components/radarr_upcoming_media/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/radarr_upcoming_media/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/radarr_upcoming_media.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/sensor/radarr_upcoming_media.py",
-        "updated_at": "2019-01-16",
-        "version": "0.2.4",
-        "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media"
-    },
-    "sensor.rpi_power": {
-        "author": {
-            "html_url": "https://github.com/swetoast",
-            "login": "swetoast"
-        },
-        "changelog": "https://github.com/custom-components/sensor.rpi_power",
-        "description": "A Custom component for Home-Assistant that checks if your Raspberry Pi power supply is giving enough voltage from the kernel.",
-        "embedded": false,
-        "embedded_path": "/custom_components/rpi_power/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/rpi_power/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/rpi_power.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/sensor/rpi_power.py",
-        "updated_at": "2019-01-09",
-        "version": "0.0.8",
-        "visit_repo": "https://github.com/custom-components/sensor.rpi_power"
-    },
-    "sensor.sonarr_upcoming_media": {
-        "author": {
-            "html_url": "https://github.com/maykar",
-            "login": "maykar"
-        },
-        "changelog": "https://github.com/custom-components/sensor.sonarr_upcoming_media/releases/tag/0.0.7",
-        "description": "Sonarr component to feed the Upcoming Media Card for Home Assistant.",
-        "embedded": false,
-        "embedded_path": "/custom_components/sonarr_upcoming_media/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sonarr_upcoming_media/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/sonarr_upcoming_media.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sensor/sonarr_upcoming_media.py",
-        "updated_at": "2019-01-16",
-        "version": "0.1.6",
-        "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media"
-    },
-    "sensor.ssh": {
-        "author": {
-            "html_url": "https://github.com/jchasey",
-            "login": "jchasey"
-        },
-        "changelog": "https://github.com/custom-components/sensor.ssh",
-        "description": "SSH Generic Sensor",
-        "embedded": false,
-        "embedded_path": "/custom_components/ssh/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/ssh/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/ssh.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/sensor/ssh.py",
-        "updated_at": "2018-10-26",
-        "version": "0.1.1",
-        "visit_repo": "https://github.com/custom-components/sensor.ssh"
-    },
-    "sensor.trakt": {
-        "author": {
-            "html_url": "https://github.com/iantrich",
-            "login": "iantrich"
-        },
-        "changelog": "https://github.com/custom-components/sensor.trakt/releases/tag/v0.0.6",
-        "description": "\ud83d\udcfa Trakt component for Home Assistant and Upcoming Media Card",
-        "embedded": false,
-        "embedded_path": "/custom_components/trakt/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/trakt/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/trakt.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/sensor/trakt.py",
+    "light-entity-row": {
+        "changelog": "https://github.com/custom-cards/light-entity-row",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/light-entity-row/master/light-entity-row.js",
         "updated_at": "2019-01-12",
-        "version": "0.0.6",
-        "visit_repo": "https://github.com/custom-components/sensor.trakt"
+        "version": "v0.2.2",
+        "visit_repo": "https://github.com/custom-cards/light-entity-row"
     },
-    "sensor.unifigateway": {
-        "author": {
-            "html_url": "https://github.com/jchasey",
-            "login": "jchasey"
-        },
-        "changelog": "https://github.com/custom-components/sensor.unifigateway",
-        "description": "High level health status of UniFi Security Gateway devices via UniFi Controller",
-        "embedded": false,
-        "embedded_path": "/custom_components/unifigateway/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/unifigateway/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/unifigateway.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/sensor/unifigateway.py",
+    "list-card": {
+        "changelog": "https://github.com/custom-cards/list-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/list-card/master/list-card.js",
+        "updated_at": "2019-01-14",
+        "version": "v0.0.7",
+        "visit_repo": "https://github.com/custom-cards/list-card"
+    },
+    "long-press": {
+        "changelog": "https://github.com/thomasloven/lovelace-long-press",
+        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-long-press/master/long-press.js",
+        "updated_at": "2018-12-14",
+        "version": "ca07e2",
+        "visit_repo": "https://github.com/thomasloven/lovelace-long-press"
+    },
+    "monster-card": {
+        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/monster-card/changelog.md",
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/monster-card/monster-card.js",
+        "updated_at": null,
+        "version": "0.2.3",
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/monster-card"
+    },
+    "pc-card": {
+        "changelog": "https://github.com/custom-cards/pc-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/pc-card/master/pc-card.js",
+        "updated_at": "2019-01-13",
+        "version": "v0.0.2",
+        "visit_repo": "https://github.com/custom-cards/pc-card"
+    },
+    "plan-coordinates": {
+        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/plan-coordinates/changelog.md",
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/plan-coordinates/plan-coordinates.js",
+        "updated_at": null,
+        "version": "0.1.0",
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/plan-coordinates"
+    },
+    "player": {
+        "changelog": "https://github.com/thomasloven/lovelace-player",
+        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-player/master/player.js",
+        "updated_at": "2019-01-11",
+        "version": "43020c",
+        "visit_repo": "https://github.com/thomasloven/lovelace-player"
+    },
+    "popup-card": {
+        "changelog": "https://github.com/thomasloven/lovelace-popup-card",
+        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-popup-card/master/popup-card.js",
         "updated_at": "2019-01-15",
-        "version": "0.2.0",
-        "visit_repo": "https://github.com/custom-components/sensor.unifigateway"
+        "version": "02923e",
+        "visit_repo": "https://github.com/thomasloven/lovelace-popup-card"
     },
-    "sensor.untappd": {
-        "author": {
-            "html_url": "https://github.com/swetoast",
-            "login": "swetoast"
-        },
-        "changelog": "https://github.com/custom-components/sensor.untappd/releases/tag/v0.1.1",
-        "description": "Because Beer ?",
-        "embedded": false,
-        "embedded_path": "/custom_components/untappd/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/untappd.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/sensor/untappd.py",
+    "rmv-card": {
+        "changelog": "https://github.com/custom-cards/rmv-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/rmv-card/master/rmv-card.js",
+        "updated_at": "2019-01-02",
+        "version": null,
+        "visit_repo": "https://github.com/custom-cards/rmv-card"
+    },
+    "roku-card": {
+        "changelog": "https://github.com/custom-cards/roku-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/roku-card/master/roku-card.js",
         "updated_at": "2019-01-16",
-        "version": "0.1.1",
-        "visit_repo": "https://github.com/custom-components/sensor.untappd"
+        "version": "v0.0.1",
+        "visit_repo": "https://github.com/custom-cards/roku-card"
     },
-    "sensor.weatheralerts": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/sensor.weatheralerts",
-        "description": "A sensor that give you information from alerts.weather.gov.",
-        "embedded": false,
-        "embedded_path": "/custom_components/weatheralerts/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/weatheralerts/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/weatheralerts.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/sensor/weatheralerts.py",
-        "updated_at": "2018-11-29",
-        "version": "0.0.3",
-        "visit_repo": "https://github.com/custom-components/sensor.weatheralerts"
+    "slider-entity-row": {
+        "changelog": "https://github.com/thomasloven/lovelace-slider-entity-row",
+        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-slider-entity-row/master/slider-entity-row.js",
+        "updated_at": "2019-01-14",
+        "version": "d6da75",
+        "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row"
     },
-    "sensor.wienerlinien": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/sensor.wienerlinien",
-        "description": "A sensor that give you information about next departure from spesified stop.",
-        "embedded": false,
-        "embedded_path": "/custom_components/wienerlinien/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/wienerlinien/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/wienerlinien.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/sensor/wienerlinien.py",
-        "updated_at": "2018-07-20",
-        "version": "1.1.1",
-        "visit_repo": "https://github.com/custom-components/sensor.wienerlinien"
+    "state-attribute-element": {
+        "changelog": "https://github.com/custom-cards/state-attribute-element",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/state-attribute-element/master/state-attribute-element.js",
+        "updated_at": "2018-12-19",
+        "version": "0.2.0",
+        "visit_repo": "https://github.com/custom-cards/state-attribute-element"
     },
-    "sickchill": {
-        "author": {
-            "html_url": "https://github.com/swetoast",
-            "login": "swetoast"
-        },
-        "changelog": "https://github.com/custom-components/sickchill",
-        "description": "Taps into Sickchill Api so you can perform basic commands",
-        "embedded": false,
-        "embedded_path": "/custom_components/sickchill.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sickchill/master/custom_components/sickchill.py",
-        "image_link": "",
-        "local_location": "/custom_components/sickchill/__init__.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sickchill/master/custom_components/sickchill/__init__.py",
-        "updated_at": "2019-01-03",
-        "version": "0.1.1",
-        "visit_repo": "https://github.com/custom-components/sickchill"
+    "state-element": {
+        "changelog": "https://github.com/custom-cards/state-element",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/state-element/master/state-element.js",
+        "updated_at": "2018-07-26",
+        "version": "0.0.1",
+        "visit_repo": "https://github.com/custom-cards/state-element"
     },
-    "switch.hadockermon": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/switch.hadockermon",
-        "description": "A switch platform that interact with ha-dockermon.",
-        "embedded": true,
-        "embedded_path": "/custom_components/hadockermon/switch.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/hadockermon/switch.py",
-        "image_link": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/example.png",
-        "local_location": "/custom_components/switch/hadockermon.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/switch/hadockermon.py",
+    "state-switch": {
+        "changelog": "https://github.com/thomasloven/lovelace-state-switch",
+        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-state-switch/master/state-switch.js",
+        "updated_at": "2019-01-12",
+        "version": "2b02f2",
+        "visit_repo": "https://github.com/thomasloven/lovelace-state-switch"
+    },
+    "surveillance-card": {
+        "changelog": "https://github.com/custom-cards/surveillance-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/surveillance-card/master/surveillance-card.js",
         "updated_at": "2019-01-15",
-        "version": "3.1.0",
-        "visit_repo": "https://github.com/custom-components/switch.hadockermon"
+        "version": "0.0.1",
+        "visit_repo": "https://github.com/custom-cards/surveillance-card"
     },
-    "usps_mail": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/usps_mail/releases/tag/0.1.1",
-        "description": "A component that give you to info about incoming letters and packages from USPS.",
-        "embedded": true,
-        "embedded_path": "/custom_components/usps_mail.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
-        "image_link": "",
-        "local_location": "/custom_components/usps_mail.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
-        "updated_at": "2018-11-24",
+    "text-element": {
+        "changelog": "https://github.com/custom-cards/text-element",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/text-element/master/text-element.js",
+        "updated_at": "2018-08-18",
+        "version": "0.0.2",
+        "visit_repo": "https://github.com/custom-cards/text-element"
+    },
+    "thermostat-card": {
+        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/thermostat-card/changelog.md",
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/thermostat-card/thermostat-card.js",
+        "updated_at": null,
         "version": "0.1.1",
-        "visit_repo": "https://github.com/custom-components/usps_mail"
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/thermostat-card"
+    },
+    "time-input-row": {
+        "changelog": "https://github.com/thomasloven/lovelace-time-input-row",
+        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-time-input-row/master/time-input-row.js",
+        "updated_at": "2018-12-18",
+        "version": "f503b7",
+        "visit_repo": "https://github.com/thomasloven/lovelace-time-input-row"
+    },
+    "toggle-lock-entity-row": {
+        "changelog": "https://github.com/thomasloven/lovelace-toggle-lock-entity-row",
+        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-toggle-lock-entity-row/master/toggle-lock-entity-row.js",
+        "updated_at": "2019-01-05",
+        "version": "a57ac1",
+        "visit_repo": "https://github.com/thomasloven/lovelace-toggle-lock-entity-row"
+    },
+    "tracker-card": {
+        "changelog": "https://github.com/custom-cards/tracker-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/tracker-card/master/tracker-card.js",
+        "updated_at": "2019-01-15",
+        "version": "0.1.5",
+        "visit_repo": "https://github.com/custom-cards/tracker-card"
+    },
+    "upcoming-media-card": {
+        "changelog": "https://github.com/custom-cards/upcoming-media-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/upcoming-media-card/master/upcoming-media-card.js",
+        "updated_at": "2019-01-16",
+        "version": "0.3.4",
+        "visit_repo": "https://github.com/custom-cards/upcoming-media-card"
+    },
+    "useful-markdown-card": {
+        "changelog": "https://github.com/thomasloven/lovelace-useful-markdown-card",
+        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-useful-markdown-card/master/useful-markdown-card.js",
+        "updated_at": "2019-01-15",
+        "version": "dfc268",
+        "visit_repo": "https://github.com/thomasloven/lovelace-useful-markdown-card"
+    },
+    "username-element": {
+        "changelog": "https://github.com/custom-cards/username-element",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/username-element/master/username-element.js",
+        "updated_at": "2018-08-17",
+        "version": "0.0.1",
+        "visit_repo": "https://github.com/custom-cards/username-element"
+    },
+    "vertical-stack-in-card": {
+        "changelog": "https://github.com/custom-cards/vertical-stack-in-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/vertical-stack-in-card/master/vertical-stack-in-card.js",
+        "updated_at": "2019-01-15",
+        "version": "v0.1.0",
+        "visit_repo": "https://github.com/custom-cards/vertical-stack-in-card"
     }
 }
