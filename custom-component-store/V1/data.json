@@ -244,7 +244,7 @@
             "html_url": "https://github.com/ludeeus",
             "login": "ludeeus"
         },
-        "changelog": "https://github.com/custom-components/sensor.ctabustracker/releases/tag/0.0.2",
+        "changelog": "https://github.com/custom-components/sensor.ctabustracker/releases/tag/0.0.3",
         "description": "Show departure information from ctabustracker (Chicago Transit Authority).",
         "embedded": true,
         "embedded_path": "/custom_components/ctabustracker/sensor.py",
@@ -252,7 +252,7 @@
         "image_link": "https://raw.githubusercontent.com/custom-components/sensor.ctabustracker/master/example.png",
         "local_location": "/custom_components/sensor/ctabustracker.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ctabustracker/master/custom_components/sensor/ctabustracker.py",
-        "version": "0.0.2",
+        "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/sensor.ctabustracker"
     },
     "sensor.custom_aftership": {
