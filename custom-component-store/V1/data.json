@@ -335,6 +335,22 @@
         "version": "2.0.1",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
+    "sensor.kodi_recently_added": {
+        "author": {
+            "html_url": "https://github.com/boralyl",
+            "login": "boralyl"
+        },
+        "changelog": "https://github.com/custom-components/sensor.kodi_recently_added",
+        "description": "Kodi component to feed the Upcoming Media Card for Home Assistant. ",
+        "embedded": false,
+        "embedded_path": "/custom_components/kodi_recently_added/sensor.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.kodi_recently_added/master/custom_components/kodi_recently_added/sensor.py",
+        "image_link": "",
+        "local_location": "/custom_components/sensor/kodi_recently_added.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.kodi_recently_added/master/custom_components/sensor/kodi_recently_added.py",
+        "version": null,
+        "visit_repo": "https://github.com/custom-components/sensor.kodi_recently_added"
+    },
     "sensor.krisinformation": {
         "author": {
             "html_url": "https://github.com/isabellaalstrom",
