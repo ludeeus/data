@@ -348,7 +348,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/kodi_recently_added.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.kodi_recently_added/master/custom_components/sensor/kodi_recently_added.py",
-        "version": null,
+        "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/sensor.kodi_recently_added"
     },
     "sensor.krisinformation": {
