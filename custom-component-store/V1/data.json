@@ -124,7 +124,7 @@
         "image_link": "",
         "local_location": "/custom_components/device_tracker/composite.py",
         "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/device_tracker/composite.py",
-        "version": "1.6.0",
+        "version": "1.7.0",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "device_tracker.hue": {
@@ -156,7 +156,7 @@
         "image_link": "",
         "local_location": "/custom_components/device_tracker/life360.py",
         "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/device_tracker/life360.py",
-        "version": "2.3.1",
+        "version": "2.4.0",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "hassbian_config": {
@@ -364,7 +364,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/krisinformation.py",
         "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/sensor/krisinformation.py",
-        "version": "0.0.4",
+        "version": "0.0.5",
         "visit_repo": "https://github.com/isabellaalstrom/sensor.krisinformation"
     },
     "sensor.owlintuition": {
