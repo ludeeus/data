@@ -388,7 +388,7 @@
             "html_url": "https://github.com/iantrich",
             "login": "iantrich"
         },
-        "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/tag/v0.1.0",
+        "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/tag/v0.1.1",
         "description": "\ud83d\udcb5 Personal Capital component for Home Assistant",
         "embedded": true,
         "embedded_path": "/custom_components/personalcapital/sensor.py",
