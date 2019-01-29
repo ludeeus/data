@@ -156,7 +156,7 @@
         "image_link": "",
         "local_location": "/custom_components/device_tracker/life360.py",
         "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/device_tracker/life360.py",
-        "version": "2.4.0",
+        "version": "2.5.0",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "hassbian_config": {
