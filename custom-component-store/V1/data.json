@@ -484,7 +484,7 @@
             "html_url": "https://github.com/iantrich",
             "login": "iantrich"
         },
-        "changelog": "https://github.com/custom-components/sensor.trakt/releases/tag/v0.0.7",
+        "changelog": "https://github.com/custom-components/sensor.trakt/releases/tag/v0.0.8",
         "description": "\ud83d\udcfa Trakt component for Home Assistant and Upcoming Media Card",
         "embedded": false,
         "embedded_path": "/custom_components/trakt/sensor.py",
