@@ -524,7 +524,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/untappd.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/sensor/untappd.py",
-        "version": "0.1.2",
+        "version": "0.1.3",
         "visit_repo": "https://github.com/custom-components/sensor.untappd"
     },
     "sensor.weatheralerts": {
