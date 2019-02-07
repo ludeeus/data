@@ -28,7 +28,7 @@
         "image_link": "",
         "local_location": "/custom_components/binary_sensor/hue.py",
         "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/binary_sensor/hue.py",
-        "version": "1.0.3",
+        "version": "1.0.4",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
     "camera.combined": {
@@ -140,7 +140,7 @@
         "image_link": "",
         "local_location": "/custom_components/device_tracker/hue.py",
         "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/device_tracker/hue.py",
-        "version": "1.0.3",
+        "version": "1.0.4",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
     "device_tracker.life360": {
@@ -316,7 +316,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/hue.py",
         "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/sensor/hue.py",
-        "version": "1.0.3",
+        "version": "1.0.4",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
     "sensor.illuminance": {
