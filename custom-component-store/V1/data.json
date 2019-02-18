@@ -100,7 +100,7 @@
             "html_url": "https://github.com/ludeeus",
             "login": "ludeeus"
         },
-        "changelog": "https://github.com/custom-components/custom_updater/releases/tag/4.0.5",
+        "changelog": "https://github.com/custom-components/custom_updater/releases/tag/4.1.0",
         "description": "\ud83d\udce6 A component which allows you to track and update custom cards/components and python_scripts",
         "embedded": true,
         "embedded_path": "/custom_components/custom_updater.py",
@@ -108,7 +108,7 @@
         "image_link": "",
         "local_location": "/custom_components/custom_updater.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
-        "version": "4.0.5",
+        "version": "4.1.0",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
     "device_tracker.composite": {
