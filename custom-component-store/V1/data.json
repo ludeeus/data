@@ -543,6 +543,22 @@
         "version": "1.1.1",
         "visit_repo": "https://github.com/custom-components/sensor.wienerlinien"
     },
+    "sensor.youtube": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
+        "changelog": "https://github.com/custom-components/sensor.youtube",
+        "description": "A platform which give you info about the newest video on a channel",
+        "embedded": true,
+        "embedded_path": "/custom_components/youtube/sensor.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/custom_components/youtube/sensor.py",
+        "image_link": "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/example.png",
+        "local_location": "/custom_components/sensor/youtube.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/custom_components/sensor/youtube.py",
+        "version": "0.0.1",
+        "visit_repo": "https://github.com/custom-components/sensor.youtube"
+    },
     "sickchill": {
         "author": {
             "html_url": "https://github.com/swetoast",
