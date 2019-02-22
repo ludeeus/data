@@ -122,7 +122,7 @@
         "embedded_path": "/custom_components/composite/device_tracker.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/device_tracker.py",
         "image_link": "",
-        "local_location": "/custom_components/device_tracker/composite.py",
+        "local_location": "/custom_components/composite/device_tracker.py",
         "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/device_tracker/composite.py",
         "version": "1.7.0",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
@@ -154,7 +154,7 @@
         "embedded_path": "/custom_components/life360/device_tracker.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/device_tracker.py",
         "image_link": "",
-        "local_location": "/custom_components/device_tracker/life360.py",
+        "local_location": "/custom_components/life360/device_tracker.py",
         "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/device_tracker/life360.py",
         "version": "2.7.0",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
@@ -314,7 +314,7 @@
         "embedded_path": "/custom_components/illuminance/sensor.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/sensor.py",
         "image_link": "",
-        "local_location": "/custom_components/sensor/illuminance.py",
+        "local_location": "/custom_components/illuminance/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/sensor/illuminance.py",
         "version": "2.0.1",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
