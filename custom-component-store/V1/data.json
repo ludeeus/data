@@ -100,7 +100,7 @@
             "html_url": "https://github.com/ludeeus",
             "login": "ludeeus"
         },
-        "changelog": "https://github.com/custom-components/custom_updater/releases/tag/4.2.4",
+        "changelog": "https://github.com/custom-components/custom_updater/releases/tag/4.2.6",
         "description": "\ud83d\udce6 A component which allows you to track and update custom cards/components and python_scripts",
         "embedded": true,
         "embedded_path": "/custom_components/custom_updater.py",
