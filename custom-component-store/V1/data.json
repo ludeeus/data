@@ -111,22 +111,6 @@
         "version": "4.2.7",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
-    "device_tracker.composite": {
-        "author": {
-            "html_url": "https://github.com/pnbruckner",
-            "login": "pnbruckner"
-        },
-        "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/composite.md#release-notes",
-        "description": "A Device Tracker platform that combines one or more device trackers. ",
-        "embedded": false,
-        "embedded_path": "/custom_components/composite/device_tracker.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/device_tracker.py",
-        "image_link": "",
-        "local_location": "/custom_components/composite/device_tracker.py",
-        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/device_tracker/composite.py",
-        "version": "1.7.0",
-        "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
-    },
     "device_tracker.hue": {
         "author": {
             "html_url": "https://github.com/robmarkcole",
@@ -142,22 +126,6 @@
         "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/device_tracker/hue.py",
         "version": "1.0.4",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
-    },
-    "device_tracker.life360": {
-        "author": {
-            "html_url": "https://github.com/pnbruckner",
-            "login": "pnbruckner"
-        },
-        "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/life360.md#release-notes",
-        "description": "A Device Tracker platform that retrieves location from Life360. ",
-        "embedded": false,
-        "embedded_path": "/custom_components/life360/device_tracker.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/device_tracker.py",
-        "image_link": "",
-        "local_location": "/custom_components/life360/device_tracker.py",
-        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/device_tracker/life360.py",
-        "version": "2.8.0",
-        "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "hassbian_config": {
         "author": {
@@ -302,22 +270,6 @@
         "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/sensor/hue.py",
         "version": "1.0.4",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
-    },
-    "sensor.illuminance": {
-        "author": {
-            "html_url": "https://github.com/pnbruckner",
-            "login": "pnbruckner"
-        },
-        "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/illuminance.md#release-notes",
-        "description": "A Sensor platform that estimates outdoor illuminance from Weather Underground, YR or Dark Sky current conditions.",
-        "embedded": false,
-        "embedded_path": "/custom_components/illuminance/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/illuminance/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/sensor/illuminance.py",
-        "version": "2.0.1",
-        "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "sensor.kodi_recently_added": {
         "author": {
