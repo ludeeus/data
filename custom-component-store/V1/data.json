@@ -12,6 +12,7 @@
         "image_link": "",
         "local_location": "/custom_components/binary_sensor/hadockermon.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/binary_sensor.hadockermon/master/custom_components/binary_sensor/hadockermon.py",
+        "resources": [],
         "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/binary_sensor.hadockermon"
     },
@@ -28,6 +29,7 @@
         "image_link": "",
         "local_location": "/custom_components/binary_sensor/hue.py",
         "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/binary_sensor/hue.py",
+        "resources": [],
         "version": "1.0.4",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
@@ -44,6 +46,7 @@
         "image_link": "",
         "local_location": "/custom_components/camera/combined.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/camera/combined.py",
+        "resources": [],
         "version": "0.0.1",
         "visit_repo": "https://github.com/custom-components/camera.combined"
     },
@@ -60,6 +63,7 @@
         "image_link": "",
         "local_location": "/custom_components/camera/multisource.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/camera.multisource/master/custom_components/camera/multisource.py",
+        "resources": [],
         "version": "0.3.0",
         "visit_repo": "https://github.com/custom-components/camera.multisource"
     },
@@ -76,6 +80,7 @@
         "image_link": "https://raw.githubusercontent.com/custom-components/camera.unsplash/master/example.png",
         "local_location": "/custom_components/camera/unsplash.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/camera.unsplash/master/custom_components/camera/unsplash.py",
+        "resources": [],
         "version": "0.4.2",
         "visit_repo": "https://github.com/custom-components/camera.unsplash"
     },
@@ -92,6 +97,7 @@
         "image_link": "",
         "local_location": "/custom_components/climate/e_thermostaat.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/climate/e_thermostaat.py",
+        "resources": [],
         "version": "0.2.0",
         "visit_repo": "https://github.com/custom-components/climate.e_thermostaat"
     },
@@ -108,7 +114,8 @@
         "image_link": "",
         "local_location": "/custom_components/custom_updater.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
-        "version": "4.2.8",
+        "resources": [],
+        "version": "4.2.9",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
     "device_tracker.hue": {
@@ -124,6 +131,7 @@
         "image_link": "",
         "local_location": "/custom_components/device_tracker/hue.py",
         "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/device_tracker/hue.py",
+        "resources": [],
         "version": "1.0.4",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
@@ -140,6 +148,7 @@
         "image_link": "",
         "local_location": "/custom_components/hassbian_config.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config.py",
+        "resources": [],
         "version": "2.0.1",
         "visit_repo": "https://github.com/custom-components/hassbian_config"
     },
@@ -156,6 +165,7 @@
         "image_link": "",
         "local_location": "/custom_components/media_player/braviatv_psk.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/media_player/braviatv_psk.py",
+        "resources": [],
         "version": "0.2.5",
         "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk"
     },
@@ -172,6 +182,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/authenticated.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/sensor/authenticated.py",
+        "resources": [],
         "version": "0.4.0",
         "visit_repo": "https://github.com/custom-components/sensor.authenticated"
     },
@@ -188,6 +199,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/brewdog.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.brewdog/master/custom_components/sensor/brewdog.py",
+        "resources": [],
         "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/sensor.brewdog"
     },
@@ -204,6 +216,7 @@
         "image_link": "https://raw.githubusercontent.com/custom-components/sensor.ctabustracker/master/example.png",
         "local_location": "/custom_components/sensor/ctabustracker.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ctabustracker/master/custom_components/sensor/ctabustracker.py",
+        "resources": [],
         "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/sensor.ctabustracker"
     },
@@ -220,6 +233,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/custom_aftership.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.custom_aftership/master/custom_components/sensor/custom_aftership.py",
+        "resources": [],
         "version": "0.4.0",
         "visit_repo": "https://github.com/custom-components/sensor.custom_aftership"
     },
@@ -236,6 +250,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/feedparser.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/sensor/feedparser.py",
+        "resources": [],
         "version": "0.0.4",
         "visit_repo": "https://github.com/custom-components/sensor.feedparser"
     },
@@ -252,6 +267,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/geoip.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.geoip/master/custom_components/sensor/geoip.py",
+        "resources": [],
         "version": "0.0.1",
         "visit_repo": "https://github.com/custom-components/sensor.geoip"
     },
@@ -268,6 +284,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/hue.py",
         "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/sensor/hue.py",
+        "resources": [],
         "version": "1.0.4",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
@@ -284,6 +301,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/kodi_recently_added.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.kodi_recently_added/master/custom_components/sensor/kodi_recently_added.py",
+        "resources": [],
         "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/sensor.kodi_recently_added"
     },
@@ -300,6 +318,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/krisinformation.py",
         "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/sensor/krisinformation.py",
+        "resources": [],
         "version": "0.0.6",
         "visit_repo": "https://github.com/isabellaalstrom/sensor.krisinformation"
     },
@@ -316,6 +335,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/owlintuition.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.owlintuition/master/custom_components/sensor/owlintuition.py",
+        "resources": [],
         "version": "1.2.1",
         "visit_repo": "https://github.com/custom-components/sensor.owlintuition"
     },
@@ -332,6 +352,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/personalcapital.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/sensor/personalcapital.py",
+        "resources": [],
         "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/sensor.personalcapital"
     },
@@ -348,6 +369,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/plex_recently_added.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/sensor/plex_recently_added.py",
+        "resources": [],
         "version": "0.2.1",
         "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added"
     },
@@ -364,6 +386,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/radarr_upcoming_media.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/sensor/radarr_upcoming_media.py",
+        "resources": [],
         "version": "0.2.4",
         "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media"
     },
@@ -380,6 +403,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/rpi_power.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/sensor/rpi_power.py",
+        "resources": [],
         "version": "0.0.8",
         "visit_repo": "https://github.com/custom-components/sensor.rpi_power"
     },
@@ -396,6 +420,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/sonarr_upcoming_media.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sensor/sonarr_upcoming_media.py",
+        "resources": [],
         "version": "0.1.6",
         "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media"
     },
@@ -412,6 +437,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/ssh.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/sensor/ssh.py",
+        "resources": [],
         "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/sensor.ssh"
     },
@@ -428,6 +454,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/trakt.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/sensor/trakt.py",
+        "resources": [],
         "version": "0.0.6",
         "visit_repo": "https://github.com/custom-components/sensor.trakt"
     },
@@ -444,6 +471,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/unifigateway.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/sensor/unifigateway.py",
+        "resources": [],
         "version": "0.2.0",
         "visit_repo": "https://github.com/custom-components/sensor.unifigateway"
     },
@@ -460,6 +488,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/untappd.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/sensor/untappd.py",
+        "resources": [],
         "version": "0.1.3",
         "visit_repo": "https://github.com/custom-components/sensor.untappd"
     },
@@ -476,6 +505,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/weatheralerts.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/sensor/weatheralerts.py",
+        "resources": [],
         "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/sensor.weatheralerts"
     },
@@ -492,6 +522,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/wienerlinien.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/sensor/wienerlinien.py",
+        "resources": [],
         "version": "1.1.1",
         "visit_repo": "https://github.com/custom-components/sensor.wienerlinien"
     },
@@ -508,6 +539,7 @@
         "image_link": "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/example.png",
         "local_location": "/custom_components/sensor/youtube.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/custom_components/sensor/youtube.py",
+        "resources": [],
         "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/sensor.youtube"
     },
@@ -524,6 +556,7 @@
         "image_link": "",
         "local_location": "/custom_components/sickchill/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sickchill/master/custom_components/sickchill/__init__.py",
+        "resources": [],
         "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/sickchill"
     },
@@ -540,6 +573,7 @@
         "image_link": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/example.png",
         "local_location": "/custom_components/switch/hadockermon.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/switch/hadockermon.py",
+        "resources": [],
         "version": "3.1.0",
         "visit_repo": "https://github.com/custom-components/switch.hadockermon"
     },
@@ -556,6 +590,7 @@
         "image_link": "",
         "local_location": "/custom_components/usps_mail.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
+        "resources": [],
         "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/usps_mail"
     }
