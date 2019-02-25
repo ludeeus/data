@@ -242,7 +242,7 @@
             "html_url": "https://github.com/iantrich",
             "login": "iantrich"
         },
-        "changelog": "https://github.com/custom-components/sensor.feedparser",
+        "changelog": "https://github.com/custom-components/sensor.feedparser/releases/tag/v0.0.2",
         "description": "\ud83d\udcf0 RSS feed custom component for Home Assistant",
         "embedded": true,
         "embedded_path": "/custom_components/feedparser/sensor.py",
