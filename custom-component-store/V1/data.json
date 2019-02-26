@@ -523,7 +523,7 @@
         "local_location": "/custom_components/sensor/wienerlinien.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/sensor/wienerlinien.py",
         "resources": [],
-        "version": "1.1.1",
+        "version": "1.1.2",
         "visit_repo": "https://github.com/custom-components/sensor.wienerlinien"
     },
     "sensor.youtube": {
