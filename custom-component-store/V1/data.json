@@ -115,7 +115,7 @@
         "local_location": "/custom_components/custom_updater.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
         "resources": [],
-        "version": null,
+        "version": "4.2.13",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
     "device_tracker.hue": {
@@ -193,14 +193,14 @@
         },
         "changelog": "https://github.com/custom-components/sensor.brewdog",
         "description": "\ud83c\udf7b Display information about random beers from Brewdog as a sensor in Home Assistant, you can use this in a push notification next time you visit a bar.",
-        "embedded": false,
+        "embedded": true,
         "embedded_path": "/custom_components/brewdog/sensor.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.brewdog/master/custom_components/brewdog/sensor.py",
         "image_link": "",
         "local_location": "/custom_components/sensor/brewdog.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.brewdog/master/custom_components/sensor/brewdog.py",
         "resources": [],
-        "version": null,
+        "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/sensor.brewdog"
     },
     "sensor.ctabustracker": {
