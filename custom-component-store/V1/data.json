@@ -47,7 +47,7 @@
         "local_location": "/custom_components/camera/combined.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/camera/combined.py",
         "resources": [],
-        "version": "0.0.1",
+        "version": "0.0.2",
         "visit_repo": "https://github.com/custom-components/camera.combined"
     },
     "camera.multisource": {
