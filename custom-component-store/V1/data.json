@@ -438,7 +438,7 @@
         "local_location": "/custom_components/sensor/krisinformation.py",
         "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/sensor/krisinformation.py",
         "resources": [],
-        "version": "0.0.8",
+        "version": "0.0.9",
         "visit_repo": "https://github.com/isabellaalstrom/sensor.krisinformation"
     },
     "sensor.owlintuition": {
