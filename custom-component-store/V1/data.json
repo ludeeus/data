@@ -118,6 +118,23 @@
         "version": "1.0.0",
         "visit_repo": "https://github.com/custom-components/climate.programmable_thermostat"
     },
+    "complimentr": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
+        "changelog": "https://github.com/custom-components/complimentr/releases/tag/0.0.1",
+        "description": "Component to integrate with complimentr.",
+        "embedded": true,
+        "embedded_path": "/custom_components/complimentr/__init__.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/complimentr/master/custom_components/complimentr/__init__.py",
+        "image_link": "",
+        "local_location": "/custom_components/complimentr/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/complimentr/master/custom_components/complimentr/__init__.py",
+        "resources": [],
+        "version": "STARTUP.format(name=DOMAIN, version=VERSION, issueurl=ISSUE_URL)",
+        "visit_repo": "https://github.com/custom-components/complimentr"
+    },
     "config_check": {
         "author": {
             "html_url": "https://github.com/ludeeus",
