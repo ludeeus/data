@@ -89,7 +89,7 @@
             "html_url": "https://github.com/gerard33",
             "login": "gerard33"
         },
-        "changelog": "https://github.com/custom-components/climate.e_thermostaat",
+        "changelog": "https://github.com/custom-components/climate.e_thermostaat/releases/tag/0.2.1",
         "description": "E-Thermostaat (ICY) component for Home Assistant",
         "embedded": false,
         "embedded_path": "/custom_components/e_thermostaat/climate.py",
@@ -98,7 +98,7 @@
         "local_location": "/custom_components/climate/e_thermostaat.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/climate/e_thermostaat.py",
         "resources": [],
-        "version": "0.2.0",
+        "version": "0.2.1",
         "visit_repo": "https://github.com/custom-components/climate.e_thermostaat"
     },
     "climate.programmable_thermostat": {
