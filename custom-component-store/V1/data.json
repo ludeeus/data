@@ -594,23 +594,6 @@
         "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/sensor.ssh"
     },
-    "sensor.trakt": {
-        "author": {
-            "html_url": "https://github.com/iantrich",
-            "login": "iantrich"
-        },
-        "changelog": "https://github.com/custom-components/sensor.trakt/releases/tag/v0.0.9",
-        "description": "\ud83d\udcfa Trakt component for Home Assistant and Upcoming Media Card",
-        "embedded": false,
-        "embedded_path": "/custom_components/trakt/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/trakt/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/trakt.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/sensor/trakt.py",
-        "resources": [],
-        "version": "0.0.6",
-        "visit_repo": "https://github.com/custom-components/sensor.trakt"
-    },
     "sensor.unifigateway": {
         "author": {
             "html_url": "https://github.com/jchasey",
