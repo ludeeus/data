@@ -424,6 +424,23 @@
         "version": "1.0.5",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
+    "sensor.illuminance": {
+        "author": {
+            "html_url": "https://github.com/pnbruckner",
+            "login": "pnbruckner"
+        },
+        "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/illuminance.md#release-notes",
+        "description": "A Sensor platform that estimates outdoor illuminance from Weather Underground, YR or Dark Sky current conditions.",
+        "embedded": true,
+        "embedded_path": "/custom_components/illuminance/sensor.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/sensor.py",
+        "image_link": "",
+        "local_location": "/custom_components/illuminance/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/sensor.py",
+        "resources": [],
+        "version": "2.0.2",
+        "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
+    },
     "sensor.kodi_recently_added": {
         "author": {
             "html_url": "https://github.com/boralyl",
@@ -440,23 +457,6 @@
         "resources": [],
         "version": "0.2.0",
         "visit_repo": "https://github.com/custom-components/sensor.kodi_recently_added"
-    },
-    "sensor.krisinformation": {
-        "author": {
-            "html_url": "https://github.com/isabellaalstrom",
-            "login": "isabellaalstrom"
-        },
-        "changelog": "https://github.com/isabellaalstrom/sensor.krisinformation",
-        "description": "A custom component for Home Assistant to get messages from krisinformation.se",
-        "embedded": true,
-        "embedded_path": "/custom_components/krisinformation/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/krisinformation/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/krisinformation.py",
-        "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/sensor/krisinformation.py",
-        "resources": [],
-        "version": "0.0.10",
-        "visit_repo": "https://github.com/isabellaalstrom/sensor.krisinformation"
     },
     "sensor.owlintuition": {
         "author": {
