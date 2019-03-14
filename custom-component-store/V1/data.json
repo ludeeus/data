@@ -458,6 +458,23 @@
         "version": "0.2.0",
         "visit_repo": "https://github.com/custom-components/sensor.kodi_recently_added"
     },
+    "sensor.krisinformation": {
+        "author": {
+            "html_url": "https://github.com/isabellaalstrom",
+            "login": "isabellaalstrom"
+        },
+        "changelog": "https://github.com/isabellaalstrom/sensor.krisinformation",
+        "description": "A custom component for Home Assistant to get messages from krisinformation.se",
+        "embedded": true,
+        "embedded_path": "/custom_components/krisinformation/sensor.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/krisinformation/sensor.py",
+        "image_link": "",
+        "local_location": "/custom_components/sensor/krisinformation.py",
+        "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/sensor/krisinformation.py",
+        "resources": [],
+        "version": "0.0.10",
+        "visit_repo": "https://github.com/isabellaalstrom/sensor.krisinformation"
+    },
     "sensor.owlintuition": {
         "author": {
             "html_url": "https://github.com/glpatcern",
