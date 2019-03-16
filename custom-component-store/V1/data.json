@@ -33,23 +33,6 @@
         "version": "1.0.5",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
-    "blueprint": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/blueprint",
-        "description": "Blueprint for custom_component developers.",
-        "embedded": true,
-        "embedded_path": "/custom_components/blueprint/__init__.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/blueprint/master/custom_components/blueprint/__init__.py",
-        "image_link": "https://raw.githubusercontent.com/custom-components/blueprint/master/example.png",
-        "local_location": "/custom_components/blueprint/__init__.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/blueprint/master/custom_components/blueprint/__init__.py",
-        "resources": [],
-        "version": null,
-        "visit_repo": "https://github.com/custom-components/blueprint"
-    },
     "camera.combined": {
         "author": {
             "html_url": "https://github.com/ludeeus",
