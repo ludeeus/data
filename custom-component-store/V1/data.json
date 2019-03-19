@@ -659,7 +659,7 @@
         "local_location": "/custom_components/sensor/weatheralerts.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/sensor/weatheralerts.py",
         "resources": [],
-        "version": null,
+        "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/sensor.weatheralerts"
     },
     "sensor.wienerlinien": {
