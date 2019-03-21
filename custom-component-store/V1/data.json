@@ -157,7 +157,7 @@
             "html_url": "https://github.com/ludeeus",
             "login": "ludeeus"
         },
-        "changelog": "https://github.com/custom-components/custom_updater",
+        "changelog": "https://github.com/custom-components/custom_updater/releases/tag/4.2.18",
         "description": "\ud83d\udce6 A component which allows you to track and update custom cards/components and python_scripts",
         "embedded": true,
         "embedded_path": "/custom_components/custom_updater.py",
@@ -217,7 +217,7 @@
         "local_location": "/custom_components/life360/device_tracker.py",
         "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/device_tracker.py",
         "resources": [],
-        "version": "2.8.0",
+        "version": "2.9.0",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "gpodder": {
