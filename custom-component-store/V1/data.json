@@ -16,23 +16,6 @@
         "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/binary_sensor.hadockermon"
     },
-    "binary_sensor.hue": {
-        "author": {
-            "html_url": "https://github.com/robmarkcole",
-            "login": "robmarkcole"
-        },
-        "changelog": "https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest",
-        "description": "Sensor for checking the status of Hue sensors. ",
-        "embedded": true,
-        "embedded_path": "/custom_components/hue/binary_sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/hue/binary_sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/hue/binary_sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/hue/binary_sensor.py",
-        "resources": [],
-        "version": "1.0.5",
-        "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
-    },
     "camera.combined": {
         "author": {
             "html_url": "https://github.com/ludeeus",
@@ -185,23 +168,6 @@
         "resources": [],
         "version": "1.7.0",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
-    },
-    "device_tracker.hue": {
-        "author": {
-            "html_url": "https://github.com/robmarkcole",
-            "login": "robmarkcole"
-        },
-        "changelog": "https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest",
-        "description": "Sensor for checking the status of Hue sensors. ",
-        "embedded": true,
-        "embedded_path": "/custom_components/hue/device_tracker.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/hue/device_tracker.py",
-        "image_link": "",
-        "local_location": "/custom_components/hue/device_tracker.py",
-        "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/hue/device_tracker.py",
-        "resources": [],
-        "version": "1.0.5",
-        "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
     "device_tracker.life360": {
         "author": {
@@ -406,23 +372,6 @@
         "resources": [],
         "version": "0.0.1",
         "visit_repo": "https://github.com/custom-components/sensor.geoip"
-    },
-    "sensor.hue": {
-        "author": {
-            "html_url": "https://github.com/robmarkcole",
-            "login": "robmarkcole"
-        },
-        "changelog": "https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest",
-        "description": "Sensor for checking the status of Hue sensors. ",
-        "embedded": true,
-        "embedded_path": "/custom_components/hue/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/hue/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/hue/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/hue/sensor.py",
-        "resources": [],
-        "version": "1.0.5",
-        "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
     "sensor.illuminance": {
         "author": {
