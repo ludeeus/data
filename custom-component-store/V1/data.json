@@ -353,7 +353,7 @@
         "local_location": "/custom_components/sensor/ctabustracker.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ctabustracker/master/custom_components/sensor/ctabustracker.py",
         "resources": [],
-        "version": null,
+        "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/sensor.ctabustracker"
     },
     "sensor.custom_aftership": {
