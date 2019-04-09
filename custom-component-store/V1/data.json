@@ -38,7 +38,7 @@
             "html_url": "https://github.com/ludeeus",
             "login": "ludeeus"
         },
-        "changelog": "https://github.com/custom-components/breaking_changes/releases/tag/0.0.1",
+        "changelog": "https://github.com/custom-components/breaking_changes/releases/tag/0.0.3",
         "description": "Component to show potential breaking_changes in the current published version based on your loaded components.",
         "embedded": true,
         "embedded_path": "/custom_components/breaking_changes/__init__.py",
