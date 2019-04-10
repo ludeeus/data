@@ -91,7 +91,7 @@
         "local_location": "/custom_components/camera/combined.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/camera/combined.py",
         "resources": [],
-        "version": "untagged-de115bdf35cad9f7e672",
+        "version": "0.0.2",
         "visit_repo": "https://github.com/custom-components/camera.combined"
     },
     "camera.multisource": {
@@ -125,7 +125,7 @@
         "local_location": "/custom_components/camera/unsplash.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/camera.unsplash/master/custom_components/camera/unsplash.py",
         "resources": [],
-        "version": "untagged-87e73bc7c935f59e00b4",
+        "version": "0.4.2",
         "visit_repo": "https://github.com/custom-components/camera.unsplash"
     },
     "circadian_lighting": {
@@ -196,7 +196,7 @@
         "local_location": "/custom_components/complimentr/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/complimentr/master/custom_components/complimentr/__init__.py",
         "resources": [],
-        "version": "0.0.1",
+        "version": "0.0.2",
         "visit_repo": "https://github.com/custom-components/complimentr"
     },
     "config_check": {
@@ -390,7 +390,7 @@
         "local_location": "/custom_components/sensor/authenticated.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/sensor/authenticated.py",
         "resources": [],
-        "version": "untagged-dce8283554e20c2f175e",
+        "version": "0.4.1",
         "visit_repo": "https://github.com/custom-components/sensor.authenticated"
     },
     "sensor.avanza_stock": {
@@ -475,7 +475,7 @@
         "local_location": "/custom_components/sensor/feedparser.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/sensor/feedparser.py",
         "resources": [],
-        "version": "v0.0.2",
+        "version": "0.0.4",
         "visit_repo": "https://github.com/custom-components/sensor.feedparser"
     },
     "sensor.file_restore": {
@@ -611,7 +611,7 @@
         "local_location": "/custom_components/sensor/personalcapital.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/sensor/personalcapital.py",
         "resources": [],
-        "version": "v0.1.1",
+        "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/sensor.personalcapital"
     },
     "sensor.plex_recently_added": {
@@ -628,7 +628,7 @@
         "local_location": "/custom_components/sensor/plex_recently_added.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/sensor/plex_recently_added.py",
         "resources": [],
-        "version": "0.2.1",
+        "version": "0.2.2",
         "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added"
     },
     "sensor.radarr_upcoming_media": {
@@ -679,7 +679,7 @@
         "local_location": "/custom_components/sensor/sonarr_upcoming_media.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sensor/sonarr_upcoming_media.py",
         "resources": [],
-        "version": "0.0.7",
+        "version": "0.1.7",
         "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media"
     },
     "sensor.ssh": {
@@ -747,7 +747,7 @@
         "local_location": "/custom_components/sensor/untappd.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/sensor/untappd.py",
         "resources": [],
-        "version": "1.1.5",
+        "version": "0.1.4",
         "visit_repo": "https://github.com/custom-components/sensor.untappd"
     },
     "sensor.weatheralerts": {
@@ -849,7 +849,7 @@
         "local_location": "/custom_components/switch/hadockermon.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/switch/hadockermon.py",
         "resources": [],
-        "version": "untagged-5e59b9037c63bce5d745",
+        "version": "3.1.0",
         "visit_repo": "https://github.com/custom-components/switch.hadockermon"
     },
     "usps_mail": {
@@ -866,7 +866,7 @@
         "local_location": "/custom_components/usps_mail.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
         "resources": [],
-        "version": "untagged-56aead20725f7977fac8",
+        "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/usps_mail"
     }
 }
