@@ -55,6 +55,28 @@
         "version": "1.0.5",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
+    "breaking_changes": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
+        "changelog": "https://github.com/custom-components/breaking_changes/releases/tag/0.1.0",
+        "description": "Component to show potential breaking_changes in the current published version based on your loaded components.",
+        "embedded": true,
+        "embedded_path": "/custom_components/breaking_changes/__init__.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/__init__.py",
+        "image_link": "https://raw.githubusercontent.com/custom-components/breaking_changes/master/example.png",
+        "local_location": "/custom_components/breaking_changes/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/__init__.py",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/binary_sensor.py",
+            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/const.py",
+            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/sensor.py",
+            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/manifest.json"
+        ],
+        "version": "0.1.0",
+        "visit_repo": "https://github.com/custom-components/breaking_changes"
+    },
     "camera.combined": {
         "author": {
             "html_url": "https://github.com/ludeeus",
@@ -244,23 +266,6 @@
         "resources": [],
         "version": "1.0.5",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
-    },
-    "device_tracker.life360": {
-        "author": {
-            "html_url": "https://github.com/pnbruckner",
-            "login": "pnbruckner"
-        },
-        "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/life360.md#release-notes",
-        "description": "A Device Tracker platform that retrieves location from Life360. ",
-        "embedded": true,
-        "embedded_path": "/custom_components/life360/device_tracker.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/device_tracker.py",
-        "image_link": "",
-        "local_location": "/custom_components/life360/device_tracker.py",
-        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/device_tracker.py",
-        "resources": [],
-        "version": "2.9.0",
-        "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "gpodder": {
         "author": {
