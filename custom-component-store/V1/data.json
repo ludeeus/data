@@ -35,7 +35,7 @@
         "local_location": "/custom_components/binary_sensor/hadockermon.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/binary_sensor.hadockermon/master/custom_components/binary_sensor/hadockermon.py",
         "resources": [],
-        "version": null,
+        "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/binary_sensor.hadockermon"
     },
     "binary_sensor.hue": {
@@ -859,11 +859,11 @@
         "changelog": "https://github.com/custom-components/usps_mail/releases/tag/0.1.1",
         "description": "A component that give you to info about incoming letters and packages from USPS.",
         "embedded": true,
-        "embedded_path": "/custom_components/usps_mail/__init__.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail/__init__.py",
+        "embedded_path": "/custom_components/usps_mail.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
         "image_link": "",
-        "local_location": "/custom_components/usps_mail/__init__.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail/__init__.py",
+        "local_location": "/custom_components/usps_mail.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
         "resources": [],
         "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/usps_mail"
