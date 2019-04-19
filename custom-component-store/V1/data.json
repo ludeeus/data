@@ -245,8 +245,10 @@
         "image_link": "",
         "local_location": "/custom_components/composite/device_tracker.py",
         "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/device_tracker.py",
-        "resources": [],
-        "version": "1.7.0",
+        "resources": [
+            "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/manifest.json"
+        ],
+        "version": "1.7.1",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "device_tracker.hue": {
@@ -279,8 +281,10 @@
         "image_link": "",
         "local_location": "/custom_components/life360/device_tracker.py",
         "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/device_tracker.py",
-        "resources": [],
-        "version": "2.9.0",
+        "resources": [
+            "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/manifest.json"
+        ],
+        "version": "2.9.1",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "gpodder": {
@@ -541,8 +545,10 @@
         "image_link": "",
         "local_location": "/custom_components/illuminance/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/sensor.py",
-        "resources": [],
-        "version": "2.0.3",
+        "resources": [
+            "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/manifest.json"
+        ],
+        "version": "2.0.4",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "sensor.kodi_recently_added": {
