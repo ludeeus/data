@@ -239,7 +239,7 @@
             "login": "pnbruckner"
         },
         "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/composite.md#release-notes",
-        "description": " __version__ = '1.7.3'",
+        "description": " __version__ = '1.7.4'",
         "embedded": true,
         "embedded_path": "/custom_components/composite/device_tracker.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/device_tracker.py",
@@ -250,7 +250,7 @@
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/device_tracker.py",
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/manifest.json"
         ],
-        "version": "1.7.3",
+        "version": "1.7.4",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "device_tracker.hue": {
@@ -276,7 +276,7 @@
             "login": "pnbruckner"
         },
         "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/life360.md#release-notes",
-        "description": " __version__ = '2.9.3'",
+        "description": " __version__ = '2.9.4'",
         "embedded": true,
         "embedded_path": "/custom_components/life360/device_tracker.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/device_tracker.py",
@@ -287,7 +287,7 @@
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/device_tracker.py",
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/manifest.json"
         ],
-        "version": "2.9.3",
+        "version": "2.9.4",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "gpodder": {
@@ -637,7 +637,7 @@
         "local_location": "/custom_components/sensor/plex_recently_added.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/sensor/plex_recently_added.py",
         "resources": [],
-        "version": "0.2.2",
+        "version": "0.2.3",
         "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added"
     },
     "sensor.radarr_upcoming_media": {
