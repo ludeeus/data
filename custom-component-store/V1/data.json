@@ -827,6 +827,28 @@
         "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/sensor.youtube"
     },
+    "shelly": {
+        "author": {
+            "html_url": "https://github.com/StyraHem",
+            "login": "StyraHem"
+        },
+        "changelog": "https://github.com/StyraHem/hass/tree/master/components/shelly",
+        "description": "Support for Shelly smart home devices.\r \r",
+        "embedded": true,
+        "embedded_path": "/components/shelly/__init__.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/__init__.py",
+        "image_link": "",
+        "local_location": "/custom_components/shelly/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/__init__.py",
+        "resources": [
+            "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/cover.py",
+            "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/light.py",
+            "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/sensor.py",
+            "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/switch.py"
+        ],
+        "version": "0.0.9",
+        "visit_repo": "https://github.com/StyraHem/hass"
+    },
     "sickchill": {
         "author": {
             "html_url": "https://github.com/swetoast",
