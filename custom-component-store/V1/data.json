@@ -810,6 +810,23 @@
         "version": "0.0.4",
         "visit_repo": "https://github.com/custom-components/sensor.yandex_maps"
     },
+    "sensor.youtube": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
+        "changelog": "https://github.com/custom-components/sensor.youtube",
+        "description": "A platform which give you info about the newest video on a channel",
+        "embedded": true,
+        "embedded_path": "/custom_components/youtube/sensor.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/custom_components/youtube/sensor.py",
+        "image_link": "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/example.png",
+        "local_location": "/custom_components/sensor/youtube.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/custom_components/sensor/youtube.py",
+        "resources": [],
+        "version": "0.1.1",
+        "visit_repo": "https://github.com/custom-components/sensor.youtube"
+    },
     "shelly": {
         "author": {
             "html_url": "https://github.com/StyraHem",
