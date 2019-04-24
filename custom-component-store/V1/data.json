@@ -846,7 +846,7 @@
             "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/sensor.py",
             "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/switch.py"
         ],
-        "version": "0.0.9",
+        "version": "0.0.10",
         "visit_repo": "https://github.com/StyraHem/hass"
     },
     "sickchill": {
