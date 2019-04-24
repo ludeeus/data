@@ -5,13 +5,13 @@
             "login": "pnbruckner"
         },
         "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/amcrest.md",
-        "description": "import logging from datetime import timedelta",
+        "description": "",
         "embedded": true,
         "embedded_path": "/custom_components/amcrest/__init__.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/amcrest/__init__.py",
         "image_link": "",
-        "local_location": "/custom_components/amcrest/__init__.py",
-        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/amcrest/__init__.py",
+        "local_location": "",
+        "remote_location": "",
         "resources": [
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/amcrest/binary_sensor.py",
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/amcrest/camera.py",
@@ -45,13 +45,13 @@
             "login": "robmarkcole"
         },
         "changelog": "https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest",
-        "description": "Sensor for checking the status of Hue sensors. ",
-        "embedded": false,
-        "embedded_path": "/custom_components/hue/binary_sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/hue/binary_sensor.py",
+        "description": "",
+        "embedded": true,
+        "embedded_path": "/custom_components/huesensor/binary_sensor.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/huesensor/binary_sensor.py",
         "image_link": "",
-        "local_location": "/custom_components/huesensor/binary_sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/huesensor/binary_sensor.py",
+        "local_location": "",
+        "remote_location": "",
         "resources": [],
         "version": "1.0.5",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
@@ -134,13 +134,13 @@
             "login": "claytonjn"
         },
         "changelog": "https://github.com/claytonjn/hass-circadian_lighting/releases",
-        "description": "Circadian Lighting Component for Home-Assistant. ",
+        "description": "",
         "embedded": true,
         "embedded_path": "/custom_components/circadian_lighting/__init__.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/claytonjn/hass-circadian_lighting/master/custom_components/circadian_lighting/__init__.py",
         "image_link": "",
-        "local_location": "/custom_components/circadian_lighting/__init__.py",
-        "remote_location": "https://raw.githubusercontent.com/claytonjn/hass-circadian_lighting/master/custom_components/circadian_lighting/__init__.py",
+        "local_location": "",
+        "remote_location": "",
         "resources": [
             "https://raw.githubusercontent.com/claytonjn/hass-circadian_lighting/master/custom_components/circadian_lighting/sensor.py",
             "https://raw.githubusercontent.com/claytonjn/hass-circadian_lighting/master/custom_components/circadian_lighting/switch.py"
@@ -239,13 +239,13 @@
             "login": "pnbruckner"
         },
         "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/composite.md#release-notes",
-        "description": " __version__ = '1.7.4'",
+        "description": "",
         "embedded": true,
-        "embedded_path": "/custom_components/composite/device_tracker.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/device_tracker.py",
+        "embedded_path": "/custom_components/composite/__init__.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/__init__.py",
         "image_link": "",
-        "local_location": "/custom_components/composite/__init__.py",
-        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/__init__.py",
+        "local_location": "",
+        "remote_location": "",
         "resources": [
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/device_tracker.py",
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/manifest.json"
@@ -259,13 +259,13 @@
             "login": "robmarkcole"
         },
         "changelog": "https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest",
-        "description": "Sensor for checking the status of Hue sensors. ",
-        "embedded": false,
-        "embedded_path": "/custom_components/hue/device_tracker.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/hue/device_tracker.py",
+        "description": "",
+        "embedded": true,
+        "embedded_path": "/custom_components/huesensor/device_tracker.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/huesensor/device_tracker.py",
         "image_link": "",
-        "local_location": "/custom_components/huesensor/device_tracker.py",
-        "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/huesensor/device_tracker.py",
+        "local_location": "",
+        "remote_location": "",
         "resources": [],
         "version": "1.0.5",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
@@ -276,13 +276,13 @@
             "login": "pnbruckner"
         },
         "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/life360.md#release-notes",
-        "description": " __version__ = '2.9.5'",
+        "description": "",
         "embedded": true,
-        "embedded_path": "/custom_components/life360/device_tracker.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/device_tracker.py",
+        "embedded_path": "/custom_components/life360/__init__.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/__init__.py",
         "image_link": "",
-        "local_location": "/custom_components/life360/__init__.py",
-        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/__init__.py",
+        "local_location": "",
+        "remote_location": "",
         "resources": [
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/device_tracker.py",
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/manifest.json"
@@ -524,13 +524,13 @@
             "login": "robmarkcole"
         },
         "changelog": "https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest",
-        "description": "Sensor for checking the status of Hue sensors. ",
-        "embedded": false,
-        "embedded_path": "/custom_components/hue/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/hue/sensor.py",
+        "description": "",
+        "embedded": true,
+        "embedded_path": "/custom_components/huesensor/sensor.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/huesensor/sensor.py",
         "image_link": "",
-        "local_location": "/custom_components/huesensor/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/huesensor/sensor.py",
+        "local_location": "",
+        "remote_location": "",
         "resources": [],
         "version": "1.0.5",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
@@ -541,13 +541,13 @@
             "login": "pnbruckner"
         },
         "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/illuminance.md#release-notes",
-        "description": " __version__ = '2.0.5'",
+        "description": "",
         "embedded": true,
-        "embedded_path": "/custom_components/illuminance/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/sensor.py",
+        "embedded_path": "/custom_components/illuminance/__init__.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/__init__.py",
         "image_link": "",
-        "local_location": "/custom_components/illuminance/__init__.py",
-        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/__init__.py",
+        "local_location": "",
+        "remote_location": "",
         "resources": [
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/sensor.py",
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/manifest.json"
@@ -833,13 +833,13 @@
             "login": "StyraHem"
         },
         "changelog": "https://github.com/StyraHem/hass/tree/master/components/shelly",
-        "description": "Support for Shelly smart home devices.\r \r",
+        "description": "",
         "embedded": true,
-        "embedded_path": "/components/shelly/__init__.py",
+        "embedded_path": "/custom_components/shelly/__init__.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/__init__.py",
         "image_link": "",
-        "local_location": "/custom_components/shelly/__init__.py",
-        "remote_location": "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/__init__.py",
+        "local_location": "",
+        "remote_location": "",
         "resources": [
             "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/cover.py",
             "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/light.py",
@@ -847,7 +847,7 @@
             "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/switch.py"
         ],
         "version": "0.0.10",
-        "visit_repo": "https://github.com/StyraHem/hass"
+        "visit_repo": "https://github.com/StyraHem/hass/tree/master/components/shelly"
     },
     "sickchill": {
         "author": {
