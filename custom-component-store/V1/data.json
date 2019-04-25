@@ -569,7 +569,7 @@
         "local_location": "/custom_components/sensor/kodi_recently_added.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.kodi_recently_added/master/custom_components/sensor/kodi_recently_added.py",
         "resources": [],
-        "version": "0.2.2",
+        "version": "0.2.3",
         "visit_repo": "https://github.com/custom-components/sensor.kodi_recently_added"
     },
     "sensor.krisinformation": {
@@ -637,7 +637,7 @@
         "local_location": "/custom_components/sensor/plex_recently_added.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/sensor/plex_recently_added.py",
         "resources": [],
-        "version": "0.2.4",
+        "version": "0.2.5",
         "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added"
     },
     "sensor.radarr_upcoming_media": {
@@ -654,7 +654,7 @@
         "local_location": "/custom_components/sensor/radarr_upcoming_media.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/sensor/radarr_upcoming_media.py",
         "resources": [],
-        "version": "0.2.6",
+        "version": "0.2.7",
         "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media"
     },
     "sensor.rpi_power": {
@@ -688,7 +688,7 @@
         "local_location": "/custom_components/sensor/sonarr_upcoming_media.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sensor/sonarr_upcoming_media.py",
         "resources": [],
-        "version": "0.1.8",
+        "version": "0.1.9",
         "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media"
     },
     "sensor.ssh": {
