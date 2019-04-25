@@ -170,7 +170,7 @@
             "html_url": "https://github.com/MapoDan",
             "login": "MapoDan"
         },
-        "changelog": "https://github.com/custom-components/climate.programmable_thermostat/releases/tag/1.0.1",
+        "changelog": "https://github.com/custom-components/climate.programmable_thermostat/releases/tag/1.2.0",
         "description": "Programmable thermostat that let you have a smart thermostat on budget.",
         "embedded": true,
         "embedded_path": "/custom_components/programmable_thermostat/climate.py",
@@ -179,7 +179,7 @@
         "local_location": "/custom_components/climate/programmable_thermostat.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/climate.programmable_thermostat/master/custom_components/climate/programmable_thermostat.py",
         "resources": [],
-        "version": "1.0.1",
+        "version": "1.2.0",
         "visit_repo": "https://github.com/custom-components/climate.programmable_thermostat"
     },
     "complimentr": {
@@ -637,7 +637,7 @@
         "local_location": "/custom_components/sensor/plex_recently_added.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/sensor/plex_recently_added.py",
         "resources": [],
-        "version": "0.2.3",
+        "version": "0.2.4",
         "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added"
     },
     "sensor.radarr_upcoming_media": {
@@ -654,7 +654,7 @@
         "local_location": "/custom_components/sensor/radarr_upcoming_media.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/sensor/radarr_upcoming_media.py",
         "resources": [],
-        "version": "0.2.5",
+        "version": "0.2.6",
         "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media"
     },
     "sensor.rpi_power": {
@@ -688,7 +688,7 @@
         "local_location": "/custom_components/sensor/sonarr_upcoming_media.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sensor/sonarr_upcoming_media.py",
         "resources": [],
-        "version": "0.1.7",
+        "version": "0.1.8",
         "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media"
     },
     "sensor.ssh": {
