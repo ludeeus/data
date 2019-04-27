@@ -224,13 +224,13 @@
         "changelog": "https://github.com/custom-components/custom_updater/releases/tag/4.2.19",
         "description": "\ud83d\udce6 A component which allows you to track and update custom cards/components and python_scripts",
         "embedded": true,
-        "embedded_path": "/custom_components/custom_updater.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
+        "embedded_path": "/custom_components/custom_updater/__init__.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater/__init__.py",
         "image_link": "",
-        "local_location": "/custom_components/custom_updater.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
+        "local_location": "/custom_components/custom_updater/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater/__init__.py",
         "resources": [],
-        "version": "4.2.19",
+        "version": "5.0.0",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
     "device_tracker.composite": {
