@@ -662,7 +662,7 @@
             "html_url": "https://github.com/swetoast",
             "login": "swetoast"
         },
-        "changelog": "https://github.com/custom-components/sensor.rpi_power/releases/tag/0.1.1",
+        "changelog": "https://github.com/custom-components/sensor.rpi_power/releases/tag/0.1.2",
         "description": "A Custom component for Home-Assistant that checks if your Raspberry Pi power supply is giving enough voltage from the kernel.",
         "embedded": true,
         "embedded_path": "/custom_components/rpi_power/sensor.py",
@@ -670,8 +670,11 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/rpi_power.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/sensor/rpi_power.py",
-        "resources": [],
-        "version": "0.1.1",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/rpi_power/__init__.py",
+            "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/rpi_power/manifest.json"
+        ],
+        "version": "0.1.2",
         "visit_repo": "https://github.com/custom-components/sensor.rpi_power"
     },
     "sensor.sonarr_upcoming_media": {
@@ -846,7 +849,7 @@
             "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/sensor.py",
             "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/switch.py"
         ],
-        "version": "0.0.10",
+        "version": "0.0.11",
         "visit_repo": "https://github.com/StyraHem/hass/tree/master/components/shelly"
     },
     "sickchill": {
