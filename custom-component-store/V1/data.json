@@ -313,6 +313,23 @@
         "version": "1.0.3",
         "visit_repo": "https://github.com/custom-components/gpodder"
     },
+    "grocy": {
+        "author": {
+            "html_url": "https://github.com/SebRut",
+            "login": "SebRut"
+        },
+        "changelog": "https://github.com/custom-components/grocy",
+        "description": null,
+        "embedded": true,
+        "embedded_path": "/custom_components/grocy/__init__.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/grocy/master/custom_components/grocy/__init__.py",
+        "image_link": "",
+        "local_location": "/custom_components/grocy/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/grocy/master/custom_components/grocy/__init__.py",
+        "resources": [],
+        "version": null,
+        "visit_repo": "https://github.com/custom-components/grocy"
+    },
     "hacs": {
         "author": {
             "html_url": "https://github.com/ludeeus",
