@@ -229,7 +229,9 @@
         "image_link": "",
         "local_location": "/custom_components/custom_updater/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater/__init__.py",
-        "resources": [],
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater/services.yaml"
+        ],
         "version": "5.0.0",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
