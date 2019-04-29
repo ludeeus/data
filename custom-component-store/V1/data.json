@@ -673,7 +673,7 @@
         "local_location": "/custom_components/sensor/rpi_power.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/sensor/rpi_power.py",
         "resources": [
-            "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/rpi_power/sensor.py",
+            "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/rpi_power/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/rpi_power/manifest.json"
         ],
         "version": "0.1.3",
