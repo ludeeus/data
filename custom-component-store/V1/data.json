@@ -440,7 +440,7 @@
             "html_url": "https://github.com/claha",
             "login": "claha"
         },
-        "changelog": "https://github.com/custom-components/sensor.avanza_stock/releases/tag/0.0.7",
+        "changelog": "https://github.com/custom-components/sensor.avanza_stock/releases/tag/0.0.8",
         "description": "Custom component to get stock data from Avanza for Home Assistant",
         "embedded": true,
         "embedded_path": "/custom_components/avanza_stock/sensor.py",
@@ -453,7 +453,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.avanza_stock/master/custom_components/avanza_stock/sensor.py",
             "https://raw.githubusercontent.com/custom-components/sensor.avanza_stock/master/custom_components/avanza_stock/manifest.json"
         ],
-        "version": "0.0.7",
+        "version": "0.0.8",
         "visit_repo": "https://github.com/custom-components/sensor.avanza_stock"
     },
     "sensor.brewdog": {
