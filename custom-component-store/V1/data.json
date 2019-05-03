@@ -369,7 +369,7 @@
             "html_url": "https://github.com/gerard33",
             "login": "gerard33"
         },
-        "changelog": "https://github.com/custom-components/media_player.braviatv_psk/releases/tag/0.2.5",
+        "changelog": "https://github.com/custom-components/media_player.braviatv_psk/releases/tag/0.2.6",
         "description": "Sony Bravia TV (Pre-Shared Key) component for Home Assistant",
         "embedded": true,
         "embedded_path": "/custom_components/braviatv_psk/media_player.py",
@@ -378,7 +378,7 @@
         "local_location": "/custom_components/media_player/braviatv_psk.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/media_player/braviatv_psk.py",
         "resources": [],
-        "version": "0.2.5",
+        "version": "0.2.6",
         "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk"
     },
     "qbo": {
