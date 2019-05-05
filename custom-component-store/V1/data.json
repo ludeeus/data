@@ -450,10 +450,9 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.avanza_stock/master/custom_components/sensor/avanza_stock.py",
         "resources": [
             "https://raw.githubusercontent.com/custom-components/sensor.avanza_stock/master/custom_components/avanza_stock/__init__.py",
-            "https://raw.githubusercontent.com/custom-components/sensor.avanza_stock/master/custom_components/avanza_stock/sensor.py",
             "https://raw.githubusercontent.com/custom-components/sensor.avanza_stock/master/custom_components/avanza_stock/manifest.json"
         ],
-        "version": "0.0.8",
+        "version": "0.0.9",
         "visit_repo": "https://github.com/custom-components/sensor.avanza_stock"
     },
     "sensor.brewdog": {
