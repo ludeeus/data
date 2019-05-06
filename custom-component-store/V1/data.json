@@ -294,6 +294,27 @@
         "version": "2.10.0",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
+    "feedparser": {
+        "author": {
+            "html_url": "https://github.com/iantrich",
+            "login": "iantrich"
+        },
+        "changelog": "https://github.com/custom-components/feedparser/releases/tag/0.06",
+        "description": "\ud83d\udcf0 RSS feed custom component for Home Assistant",
+        "embedded": true,
+        "embedded_path": "/custom_components/feedparser/__init__.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/feedparser/master/custom_components/feedparser/__init__.py",
+        "image_link": "",
+        "local_location": "/custom_components/feedparser/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/feedparser/master/custom_components/feedparser/__init__.py",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/feedparser/master/custom_components/feedparser/__init__.py",
+            "https://raw.githubusercontent.com/custom-components/feedparser/master/custom_components/feedparser/manifest.json",
+            "https://raw.githubusercontent.com/custom-components/feedparser/master/custom_components/feedparser/sensor.py"
+        ],
+        "version": "0.06",
+        "visit_repo": "https://github.com/custom-components/feedparser"
+    },
     "gpodder": {
         "author": {
             "html_url": "https://github.com/iantrich",
@@ -451,7 +472,7 @@
             "html_url": "https://github.com/claha",
             "login": "claha"
         },
-        "changelog": "https://github.com/custom-components/sensor.avanza_stock/releases/tag/0.0.9",
+        "changelog": "https://github.com/custom-components/sensor.avanza_stock/releases/tag/1.0.0",
         "description": "Custom component to get stock data from Avanza for Home Assistant",
         "embedded": true,
         "embedded_path": "/custom_components/avanza_stock/sensor.py",
@@ -463,7 +484,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.avanza_stock/master/custom_components/avanza_stock/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.avanza_stock/master/custom_components/avanza_stock/manifest.json"
         ],
-        "version": "0.0.10",
+        "version": "1.0.0",
         "visit_repo": "https://github.com/custom-components/sensor.avanza_stock"
     },
     "sensor.brewdog": {
@@ -516,26 +537,6 @@
         "resources": [],
         "version": "0.4.0",
         "visit_repo": "https://github.com/custom-components/sensor.custom_aftership"
-    },
-    "sensor.feedparser": {
-        "author": {
-            "html_url": "https://github.com/iantrich",
-            "login": "iantrich"
-        },
-        "changelog": "https://github.com/custom-components/sensor.feedparser/releases/tag/0.0.5",
-        "description": "\ud83d\udcf0 RSS feed custom component for Home Assistant",
-        "embedded": true,
-        "embedded_path": "/custom_components/feedparser/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/feedparser/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/feedparser.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/sensor/feedparser.py",
-        "resources": [
-            "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/feedparser/__init__.py",
-            "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/feedparser/manifest.json"
-        ],
-        "version": "0.0.5",
-        "visit_repo": "https://github.com/custom-components/sensor.feedparser"
     },
     "sensor.file_restore": {
         "author": {
