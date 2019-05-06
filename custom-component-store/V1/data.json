@@ -852,8 +852,10 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/wienerlinien.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/sensor/wienerlinien.py",
-        "resources": [],
-        "version": "1.2.0",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/wienerlinien/__init__.py"
+        ],
+        "version": "1.2.1",
         "visit_repo": "https://github.com/custom-components/sensor.wienerlinien"
     },
     "sensor.yandex_maps": {
@@ -886,8 +888,10 @@
         "image_link": "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/example.png",
         "local_location": "/custom_components/sensor/youtube.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/custom_components/sensor/youtube.py",
-        "resources": [],
-        "version": "0.1.1",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/custom_components/youtube/__init__.py"
+        ],
+        "version": "0.1.2",
         "visit_repo": "https://github.com/custom-components/sensor.youtube"
     },
     "shelly": {
