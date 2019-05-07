@@ -861,7 +861,7 @@
         },
         "changelog": "https://github.com/custom-components/sensor.wienerlinien",
         "description": "A sensor that give you information about next departure from spesified stop.",
-        "embedded": true,
+        "embedded": false,
         "embedded_path": "/custom_components/wienerlinien/sensor.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/wienerlinien/sensor.py",
         "image_link": "",
@@ -870,7 +870,7 @@
         "resources": [
             "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/wienerlinien/__init__.py"
         ],
-        "version": "1.2.1",
+        "version": null,
         "visit_repo": "https://github.com/custom-components/sensor.wienerlinien"
     },
     "sensor.yandex_maps": {
