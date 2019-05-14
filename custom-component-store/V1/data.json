@@ -511,7 +511,7 @@
             "html_url": "https://github.com/ludeeus",
             "login": "ludeeus"
         },
-        "changelog": "https://github.com/custom-components/sensor.ctabustracker/releases/tag/0.0.3",
+        "changelog": "https://github.com/custom-components/sensor.ctabustracker",
         "description": "Show departure information from ctabustracker (Chicago Transit Authority).",
         "embedded": true,
         "embedded_path": "/custom_components/ctabustracker/sensor.py",
