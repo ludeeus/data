@@ -399,7 +399,7 @@
             "html_url": "https://github.com/gerard33",
             "login": "gerard33"
         },
-        "changelog": "https://github.com/custom-components/media_player.braviatv_psk/releases/tag/0.2.7",
+        "changelog": "https://github.com/custom-components/media_player.braviatv_psk/releases/tag/0.2.8",
         "description": "Sony Bravia TV (Pre-Shared Key) component for Home Assistant",
         "embedded": true,
         "embedded_path": "/custom_components/braviatv_psk/media_player.py",
@@ -408,9 +408,10 @@
         "local_location": "/custom_components/media_player/braviatv_psk.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/media_player/braviatv_psk.py",
         "resources": [
-            "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/__init__.py"
+            "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/__init__.py",
+            "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/manifest.json"
         ],
-        "version": "0.2.7",
+        "version": "0.2.8",
         "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk"
     },
     "qbo": {
@@ -930,7 +931,7 @@
             "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/sensor.py",
             "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/switch.py"
         ],
-        "version": "0.0.12",
+        "version": "0.0.13",
         "visit_repo": "https://github.com/StyraHem/hass/tree/master/components/shelly"
     },
     "sickchill": {
