@@ -714,7 +714,7 @@
             "login": "maykar"
         },
         "changelog": "https://github.com/custom-components/sensor.plex_recently_added/releases/tag/0.2.1",
-        "description": "Plex component to feed the Upcoming Media Card for Home Assistant.",
+        "description": "Plex component to feed Upcoming Media Card for Home Assistant.",
         "embedded": true,
         "embedded_path": "/custom_components/plex_recently_added/sensor.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/plex_recently_added/sensor.py",
@@ -734,7 +734,7 @@
             "login": "maykar"
         },
         "changelog": "https://github.com/custom-components/sensor.radarr_upcoming_media",
-        "description": "Radarr component to feed the Upcoming Media Card for Home Assistant.",
+        "description": "Radarr component to feed Upcoming Media Card for Home Assistant.",
         "embedded": true,
         "embedded_path": "/custom_components/radarr_upcoming_media/sensor.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/radarr_upcoming_media/sensor.py",
@@ -774,7 +774,7 @@
             "login": "maykar"
         },
         "changelog": "https://github.com/custom-components/sensor.sonarr_upcoming_media/releases/tag/0.0.7",
-        "description": "Sonarr component to feed the Upcoming Media Card for Home Assistant.",
+        "description": "Sonarr component to feed Upcoming Media Card for Home Assistant.",
         "embedded": true,
         "embedded_path": "/custom_components/sonarr_upcoming_media/sensor.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sonarr_upcoming_media/sensor.py",
