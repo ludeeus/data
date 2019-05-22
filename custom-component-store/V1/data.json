@@ -949,22 +949,22 @@
             "html_url": "https://github.com/StyraHem",
             "login": "StyraHem"
         },
-        "changelog": "https://github.com/StyraHem/hass/tree/master/custom_components/shelly",
+        "changelog": "https://github.com/StyraHem/Shelly4HASS/tree/master/custom_components/shelly",
         "description": "",
         "embedded": true,
         "embedded_path": "/custom_components/shelly/__init__.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/StyraHem/hass/master/custom_components/shelly/__init__.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/StyraHem/Shelly4HASS/master/custom_components/shelly/__init__.py",
         "image_link": "",
         "local_location": "",
         "remote_location": "",
         "resources": [
-            "https://raw.githubusercontent.com/StyraHem/hass/master/custom_components/shelly/cover.py",
-            "https://raw.githubusercontent.com/StyraHem/hass/master/custom_components/shelly/light.py",
-            "https://raw.githubusercontent.com/StyraHem/hass/master/custom_components/shelly/sensor.py",
-            "https://raw.githubusercontent.com/StyraHem/hass/master/custom_components/shelly/switch.py"
+            "https://raw.githubusercontent.com/StyraHem/Shelly4HASS/master/custom_components/shelly/cover.py",
+            "https://raw.githubusercontent.com/StyraHem/Shelly4HASS/master/custom_components/shelly/light.py",
+            "https://raw.githubusercontent.com/StyraHem/Shelly4HASS/master/custom_components/shelly/sensor.py",
+            "https://raw.githubusercontent.com/StyraHem/Shelly4HASS/master/custom_components/shelly/switch.py"
         ],
         "version": "0.0.14",
-        "visit_repo": "https://github.com/StyraHem/hass/tree/master/custom_components/shelly"
+        "visit_repo": "https://github.com/StyraHem/Shelly4HASS/tree/master/custom_components/shelly"
     },
     "sickchill": {
         "author": {
