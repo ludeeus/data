@@ -62,7 +62,7 @@
             "login": "ludeeus"
         },
         "changelog": "https://github.com/custom-components/breaking_changes/releases/tag/0.1.0",
-        "description": "Component to show potential breaking_changes in the current published version based on your loaded components.",
+        "description": "Component to show potential breaking_changes in the current published version based on your loaded components",
         "embedded": true,
         "embedded_path": "/custom_components/breaking_changes/__init__.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/__init__.py",
