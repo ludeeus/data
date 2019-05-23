@@ -77,23 +77,6 @@
         "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/breaking_changes"
     },
-    "camera.combined": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/camera.combined/releases/tag/0.0.1",
-        "description": "A camera platform that give you a combined feed of your defined camera entities.",
-        "embedded": true,
-        "embedded_path": "/custom_components/combined/camera.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/combined/camera.py",
-        "image_link": "",
-        "local_location": "/custom_components/camera/combined.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/camera/combined.py",
-        "resources": [],
-        "version": "0.0.2",
-        "visit_repo": "https://github.com/custom-components/camera.combined"
-    },
     "camera.multisource": {
         "author": {
             "html_url": "https://github.com/ludeeus",
@@ -825,10 +808,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/trakt.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/sensor/trakt.py",
-        "resources": [
-            "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/trakt/__init__.py",
-            "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/trakt/manifest.json"
-        ],
+        "resources": [],
         "version": "1.0.1",
         "visit_repo": "https://github.com/custom-components/sensor.trakt"
     },
