@@ -908,23 +908,6 @@
         "version": "1.2.1",
         "visit_repo": "https://github.com/custom-components/sensor.wienerlinien"
     },
-    "sensor.yandex_maps": {
-        "author": {
-            "html_url": "https://github.com/StanislavBolshakov",
-            "login": "StanislavBolshakov"
-        },
-        "changelog": "https://github.com/custom-components/sensor.yandex_maps",
-        "description": "A platform which give you the time it will take to drive.",
-        "embedded": true,
-        "embedded_path": "/custom_components/yandex_maps/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.yandex_maps/master/custom_components/yandex_maps/sensor.py",
-        "image_link": "https://raw.githubusercontent.com/custom-components/sensor.yandex_maps/master/example.png",
-        "local_location": "/custom_components/sensor/yandex_maps.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.yandex_maps/master/custom_components/sensor/yandex_maps.py",
-        "resources": [],
-        "version": "0.0.4",
-        "visit_repo": "https://github.com/custom-components/sensor.yandex_maps"
-    },
     "sensor.youtube": {
         "author": {
             "html_url": "https://github.com/ludeeus",
