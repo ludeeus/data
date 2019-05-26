@@ -543,7 +543,7 @@
         "embedded": true,
         "embedded_path": "/custom_components/ctabustracker/sensor.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.ctabustracker/master/custom_components/ctabustracker/sensor.py",
-        "image_link": "",
+        "image_link": "https://raw.githubusercontent.com/custom-components/sensor.ctabustracker/master/example.png",
         "local_location": "/custom_components/sensor/ctabustracker.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ctabustracker/master/custom_components/sensor/ctabustracker.py",
         "resources": [],
