@@ -94,23 +94,6 @@
         "version": "0.0.2",
         "visit_repo": "https://github.com/custom-components/camera.combined"
     },
-    "camera.multisource": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/camera.multisource/releases/tag/0.3.0",
-        "description": "A camera platform that generate a camera feed from multiple sources.",
-        "embedded": true,
-        "embedded_path": "/custom_components/multisource/camera.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/camera.multisource/master/custom_components/multisource/camera.py",
-        "image_link": "",
-        "local_location": "/custom_components/camera/multisource.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/camera.multisource/master/custom_components/camera/multisource.py",
-        "resources": [],
-        "version": "0.3.0",
-        "visit_repo": "https://github.com/custom-components/camera.multisource"
-    },
     "camera.unsplash": {
         "author": {
             "html_url": "https://github.com/ludeeus",
