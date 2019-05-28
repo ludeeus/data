@@ -799,7 +799,7 @@
         },
         "changelog": "https://github.com/custom-components/sensor.ssh",
         "description": "SSH Generic Sensor",
-        "embedded": true,
+        "embedded": false,
         "embedded_path": "/custom_components/ssh/sensor.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/ssh/sensor.py",
         "image_link": "",
@@ -809,7 +809,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/ssh/manifest.json",
             "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/ssh/__init__.py"
         ],
-        "version": "0.1.2",
+        "version": null,
         "visit_repo": "https://github.com/custom-components/sensor.ssh"
     },
     "sensor.trakt": {
