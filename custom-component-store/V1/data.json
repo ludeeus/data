@@ -857,7 +857,7 @@
             "html_url": "https://github.com/swetoast",
             "login": "swetoast"
         },
-        "changelog": "https://github.com/custom-components/sensor.untappd/releases/tag/0.1.5",
+        "changelog": "https://github.com/custom-components/sensor.untappd",
         "description": "\ud83c\udf7b Untappd component for Home Assistant",
         "embedded": true,
         "embedded_path": "/custom_components/untappd/sensor.py",
@@ -1002,5 +1002,22 @@
         ],
         "version": "3.1.2",
         "visit_repo": "https://github.com/custom-components/switch.hadockermon"
+    },
+    "usps_mail": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
+        "changelog": "https://github.com/custom-components/usps_mail/releases/tag/0.1.1",
+        "description": "A component that give you to info about incoming letters and packages from USPS.",
+        "embedded": true,
+        "embedded_path": "/custom_components/usps_mail.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
+        "image_link": "",
+        "local_location": "/custom_components/usps_mail.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
+        "resources": [],
+        "version": "0.1.1",
+        "visit_repo": "https://github.com/custom-components/usps_mail"
     }
 }
