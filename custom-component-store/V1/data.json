@@ -857,7 +857,7 @@
             "html_url": "https://github.com/swetoast",
             "login": "swetoast"
         },
-        "changelog": "https://github.com/custom-components/sensor.untappd",
+        "changelog": "https://github.com/custom-components/sensor.untappd/releases/tag/0.1.5",
         "description": "\ud83c\udf7b Untappd component for Home Assistant",
         "embedded": true,
         "embedded_path": "/custom_components/untappd/sensor.py",
