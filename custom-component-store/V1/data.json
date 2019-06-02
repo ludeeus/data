@@ -388,7 +388,7 @@
             "login": "ludeeus"
         },
         "changelog": "https://github.com/custom-components/hacs/releases/tag/0.4.2",
-        "description": "Manage (Install, track, upgrade) custom elements for Home Assistant from the UI.",
+        "description": "Manage (Install, track, upgrade) custom elements for Home Assistant directly from the UI.",
         "embedded": true,
         "embedded_path": "/custom_components/hacs/__init__.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/hacs/master/custom_components/hacs/__init__.py",
