@@ -399,6 +399,23 @@
         "version": "0.4.4",
         "visit_repo": "https://github.com/custom-components/hacs"
     },
+    "hassbian_config": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
+        "changelog": "https://github.com/custom-components/hassbian_config/releases/tag/2.0.1",
+        "description": "A custom component which allows you to controll some hassbian-config functions from Home Assistant.",
+        "embedded": true,
+        "embedded_path": "/custom_components/hassbian_config.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config.py",
+        "image_link": "",
+        "local_location": "/custom_components/hassbian_config.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config.py",
+        "resources": [],
+        "version": "2.0.1",
+        "visit_repo": "https://github.com/custom-components/hassbian_config"
+    },
     "media_player.braviatv_psk": {
         "author": {
             "html_url": "https://github.com/gerard33",
