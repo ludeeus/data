@@ -839,7 +839,7 @@
         },
         "changelog": "https://github.com/custom-components/sensor.unifigateway",
         "description": "High level health status of UniFi Security Gateway devices via UniFi Controller",
-        "embedded": true,
+        "embedded": false,
         "embedded_path": "/custom_components/unifigateway/sensor.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/unifigateway/sensor.py",
         "image_link": "",
@@ -849,7 +849,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/unifigateway/manifest.json",
             "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/unifigateway/__init__.py"
         ],
-        "version": "0.2.1",
+        "version": null,
         "visit_repo": "https://github.com/custom-components/sensor.unifigateway"
     },
     "sensor.untappd": {
