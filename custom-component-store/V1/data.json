@@ -759,7 +759,7 @@
         },
         "changelog": "https://github.com/custom-components/sensor.rpi_power/releases/tag/0.1.3",
         "description": "A Custom component for Home-Assistant that checks if your Raspberry Pi power supply is giving enough voltage from the kernel.",
-        "embedded": true,
+        "embedded": false,
         "embedded_path": "/custom_components/rpi_power/sensor.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/rpi_power/sensor.py",
         "image_link": "",
