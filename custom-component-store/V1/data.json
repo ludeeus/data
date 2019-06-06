@@ -256,7 +256,7 @@
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/device_tracker.py",
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/manifest.json"
         ],
-        "version": "1.7.4",
+        "version": "1.7.5",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "device_tracker.hue": {
