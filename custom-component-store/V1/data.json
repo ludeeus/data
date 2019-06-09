@@ -174,7 +174,7 @@
             "html_url": "https://github.com/MapoDan",
             "login": "MapoDan"
         },
-        "changelog": "https://github.com/custom-components/climate.programmable_thermostat/releases/tag/1.2.0",
+        "changelog": "https://github.com/custom-components/climate.programmable_thermostat/releases/tag/2.1.1",
         "description": "Programmable thermostat that let you have a smart thermostat on budget.",
         "embedded": true,
         "embedded_path": "/custom_components/programmable_thermostat/climate.py",
@@ -572,7 +572,7 @@
             "html_url": "https://github.com/MapoDan",
             "login": "MapoDan"
         },
-        "changelog": "https://github.com/custom-components/sensor.file_restore/releases/tag/1.0.1",
+        "changelog": "https://github.com/custom-components/sensor.file_restore/releases/tag/1.0.2",
         "description": "Improved file sensor component that let you read the whole last line content.",
         "embedded": true,
         "embedded_path": "/custom_components/file_restore/sensor.py",
@@ -581,7 +581,7 @@
         "local_location": "/custom_components/sensor/file_restore.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.file_restore/master/custom_components/sensor/file_restore.py",
         "resources": [],
-        "version": "1.0.1",
+        "version": "1.0.2",
         "visit_repo": "https://github.com/custom-components/sensor.file_restore"
     },
     "sensor.geoip": {
