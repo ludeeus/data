@@ -183,7 +183,7 @@
         "local_location": "/custom_components/climate/programmable_thermostat.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/climate.programmable_thermostat/master/custom_components/climate/programmable_thermostat.py",
         "resources": [],
-        "version": "1.2.0",
+        "version": "2.1.1",
         "visit_repo": "https://github.com/custom-components/climate.programmable_thermostat"
     },
     "complimentr": {
