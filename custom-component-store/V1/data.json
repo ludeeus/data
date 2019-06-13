@@ -387,7 +387,7 @@
             "html_url": "https://github.com/ludeeus",
             "login": "ludeeus"
         },
-        "changelog": "https://github.com/custom-components/hacs/releases/tag/0.6.0",
+        "changelog": "https://github.com/custom-components/hacs/releases/tag/0.7.0",
         "description": "Manage (Install, track, upgrade) custom elements for Home Assistant directly from the UI.",
         "embedded": true,
         "embedded_path": "/custom_components/hacs/__init__.py",
@@ -396,7 +396,7 @@
         "local_location": "/custom_components/hacs/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/hacs/master/custom_components/hacs/__init__.py",
         "resources": [],
-        "version": "0.6.0",
+        "version": "0.7.0",
         "visit_repo": "https://github.com/custom-components/hacs"
     },
     "hassbian_config": {
