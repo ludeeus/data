@@ -388,7 +388,7 @@
             "login": "ludeeus"
         },
         "changelog": "https://github.com/custom-components/hacs/releases/tag/0.7.0",
-        "description": "Manage (Install, track, upgrade) custom elements for Home Assistant directly from the UI.",
+        "description": "Manage (Install, track, upgrade) and discover custom elements for Home Assistant directly from the UI.",
         "embedded": true,
         "embedded_path": "/custom_components/hacs/__init__.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/hacs/master/custom_components/hacs/__init__.py",
@@ -651,8 +651,11 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/kodi_recently_added.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.kodi_recently_added/master/custom_components/sensor/kodi_recently_added.py",
-        "resources": [],
-        "version": "0.2.5",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/sensor.kodi_recently_added/master/custom_components/kodi_recently_added/__init__.py",
+            "https://raw.githubusercontent.com/custom-components/sensor.kodi_recently_added/master/custom_components/kodi_recently_added/manifest.json"
+        ],
+        "version": "0.2.6",
         "visit_repo": "https://github.com/custom-components/sensor.kodi_recently_added"
     },
     "sensor.krisinformation": {
