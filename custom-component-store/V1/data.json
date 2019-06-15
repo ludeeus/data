@@ -22,6 +22,25 @@
         "version": "1.3.3",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
+    "authenticated": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
+        "changelog": "https://github.com/custom-components/authenticated/releases/tag/0.5.0",
+        "description": "A platform which allows you to get information about sucessfull logins to Home Assistant.",
+        "embedded": true,
+        "embedded_path": "/custom_components/authenticated/__init__.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/authenticated/master/custom_components/authenticated/__init__.py",
+        "image_link": "",
+        "local_location": "/custom_components/authenticated/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/authenticated/master/custom_components/authenticated/__init__.py",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/authenticated/__init__.py"
+        ],
+        "version": "0.5.0",
+        "visit_repo": "https://github.com/custom-components/authenticated"
+    },
     "binary_sensor.hadockermon": {
         "author": {
             "html_url": "https://github.com/ludeeus",
@@ -476,25 +495,6 @@
         ],
         "version": "0.4.0",
         "visit_repo": "https://github.com/custom-components/sensor.airthings_wave"
-    },
-    "sensor.authenticated": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/sensor.authenticated/releases/tag/0.4.0",
-        "description": "A platform which allows you to get information about sucessfull logins to Home Assistant.",
-        "embedded": true,
-        "embedded_path": "/custom_components/authenticated/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/authenticated/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/authenticated.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/sensor/authenticated.py",
-        "resources": [
-            "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/authenticated/__init__.py"
-        ],
-        "version": "0.4.2",
-        "visit_repo": "https://github.com/custom-components/sensor.authenticated"
     },
     "sensor.avanza_stock": {
         "author": {
