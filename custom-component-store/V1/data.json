@@ -384,7 +384,7 @@
             "html_url": "https://github.com/SebRut",
             "login": "SebRut"
         },
-        "changelog": "https://github.com/custom-components/grocy",
+        "changelog": "https://github.com/custom-components/grocy/releases/tag/v0.1.0",
         "description": null,
         "embedded": true,
         "embedded_path": "/custom_components/grocy/__init__.py",
@@ -398,7 +398,7 @@
             "https://raw.githubusercontent.com/custom-components/grocy/develop/custom_components/grocy/sensor.py",
             "https://raw.githubusercontent.com/custom-components/grocy/develop/custom_components/grocy/services.yaml"
         ],
-        "version": null,
+        "version": "v0.1.0",
         "visit_repo": "https://github.com/custom-components/grocy"
     },
     "hacs": {
