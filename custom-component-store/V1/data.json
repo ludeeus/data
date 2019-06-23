@@ -72,7 +72,7 @@
         "local_location": "",
         "remote_location": "",
         "resources": [],
-        "version": "1.4",
+        "version": "1.5",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
     "breaking_changes": {
@@ -292,7 +292,7 @@
         "local_location": "",
         "remote_location": "",
         "resources": [],
-        "version": "1.4",
+        "version": "1.5",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
     "device_tracker.life360": {
@@ -615,7 +615,7 @@
         "local_location": "",
         "remote_location": "",
         "resources": [],
-        "version": "1.4",
+        "version": "1.5",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
     "sensor.illuminance": {
