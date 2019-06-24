@@ -58,23 +58,6 @@
         "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/binary_sensor.hadockermon"
     },
-    "binary_sensor.hue": {
-        "author": {
-            "html_url": "https://github.com/robmarkcole",
-            "login": "robmarkcole"
-        },
-        "changelog": "https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest",
-        "description": "",
-        "embedded": true,
-        "embedded_path": "/custom_components/huesensor/binary_sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/huesensor/binary_sensor.py",
-        "image_link": "",
-        "local_location": "",
-        "remote_location": "",
-        "resources": [],
-        "version": "1.5",
-        "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
-    },
     "breaking_changes": {
         "author": {
             "html_url": "https://github.com/ludeeus",
@@ -146,28 +129,6 @@
         "resources": [],
         "version": "0.4.2",
         "visit_repo": "https://github.com/custom-components/camera.unsplash"
-    },
-    "circadian_lighting": {
-        "author": {
-            "html_url": "https://github.com/claytonjn",
-            "login": "claytonjn"
-        },
-        "changelog": "https://github.com/claytonjn/hass-circadian_lighting/releases",
-        "description": "",
-        "embedded": true,
-        "embedded_path": "/custom_components/circadian_lighting/__init__.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/claytonjn/hass-circadian_lighting/master/custom_components/circadian_lighting/__init__.py",
-        "image_link": "",
-        "local_location": "",
-        "remote_location": "",
-        "resources": [
-            "https://raw.githubusercontent.com/claytonjn/hass-circadian_lighting/master/custom_components/circadian_lighting/manifest.json",
-            "https://raw.githubusercontent.com/claytonjn/hass-circadian_lighting/master/custom_components/circadian_lighting/sensor.py",
-            "https://raw.githubusercontent.com/claytonjn/hass-circadian_lighting/master/custom_components/circadian_lighting/services.yaml",
-            "https://raw.githubusercontent.com/claytonjn/hass-circadian_lighting/master/custom_components/circadian_lighting/switch.py"
-        ],
-        "version": "1.0.6",
-        "visit_repo": "https://github.com/claytonjn/hass-circadian_lighting"
     },
     "climate.e_thermostaat": {
         "author": {
@@ -278,23 +239,6 @@
         "version": "1.7.5",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
-    "device_tracker.hue": {
-        "author": {
-            "html_url": "https://github.com/robmarkcole",
-            "login": "robmarkcole"
-        },
-        "changelog": "https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest",
-        "description": "",
-        "embedded": true,
-        "embedded_path": "/custom_components/huesensor/device_tracker.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/huesensor/device_tracker.py",
-        "image_link": "",
-        "local_location": "",
-        "remote_location": "",
-        "resources": [],
-        "version": "1.5",
-        "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
-    },
     "device_tracker.life360": {
         "author": {
             "html_url": "https://github.com/pnbruckner",
@@ -335,28 +279,6 @@
         ],
         "version": "0.06",
         "visit_repo": "https://github.com/custom-components/feedparser"
-    },
-    "goldair_climate": {
-        "author": {
-            "html_url": "https://github.com/nikrolls",
-            "login": "nikrolls"
-        },
-        "changelog": "https://github.com/nikrolls/homeassistant-goldair-climate/releases/latest",
-        "description": "",
-        "embedded": true,
-        "embedded_path": "/custom_components/goldair_climate/__init__.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/nikrolls/homeassistant-goldair-climate/master/custom_components/goldair_climate/__init__.py",
-        "image_link": "",
-        "local_location": "",
-        "remote_location": "",
-        "resources": [
-            "https://raw.githubusercontent.com/nikrolls/homeassistant-goldair-climate/master/custom_components/goldair_climate/climate.py",
-            "https://raw.githubusercontent.com/nikrolls/homeassistant-goldair-climate/master/custom_components/goldair_climate/light.py",
-            "https://raw.githubusercontent.com/nikrolls/homeassistant-goldair-climate/master/custom_components/goldair_climate/lock.py",
-            "https://raw.githubusercontent.com/nikrolls/homeassistant-goldair-climate/master/custom_components/goldair_climate/sensor.py"
-        ],
-        "version": "0.0.3",
-        "visit_repo": "https://github.com/nikrolls/homeassistant-goldair-climate"
     },
     "gpodder": {
         "author": {
@@ -600,23 +522,6 @@
         "resources": [],
         "version": "0.0.1",
         "visit_repo": "https://github.com/custom-components/sensor.geoip"
-    },
-    "sensor.hue": {
-        "author": {
-            "html_url": "https://github.com/robmarkcole",
-            "login": "robmarkcole"
-        },
-        "changelog": "https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest",
-        "description": "",
-        "embedded": true,
-        "embedded_path": "/custom_components/huesensor/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/huesensor/sensor.py",
-        "image_link": "",
-        "local_location": "",
-        "remote_location": "",
-        "resources": [],
-        "version": "1.5",
-        "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
     "sensor.illuminance": {
         "author": {
@@ -927,28 +832,6 @@
         "resources": [],
         "version": "0.0.4",
         "visit_repo": "https://github.com/custom-components/sensor.yandex_maps"
-    },
-    "shelly": {
-        "author": {
-            "html_url": "https://github.com/StyraHem",
-            "login": "StyraHem"
-        },
-        "changelog": "https://github.com/StyraHem/ShellyForHASS/tree/master/custom_components/shelly",
-        "description": "",
-        "embedded": true,
-        "embedded_path": "/custom_components/shelly/__init__.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/StyraHem/ShellyForHASS/master/custom_components/shelly/__init__.py",
-        "image_link": "",
-        "local_location": "",
-        "remote_location": "",
-        "resources": [
-            "https://raw.githubusercontent.com/StyraHem/ShellyForHASS/master/custom_components/shelly/cover.py",
-            "https://raw.githubusercontent.com/StyraHem/ShellyForHASS/master/custom_components/shelly/light.py",
-            "https://raw.githubusercontent.com/StyraHem/ShellyForHASS/master/custom_components/shelly/sensor.py",
-            "https://raw.githubusercontent.com/StyraHem/ShellyForHASS/master/custom_components/shelly/switch.py"
-        ],
-        "version": "0.0.14",
-        "visit_repo": "https://github.com/StyraHem/ShellyForHASS/tree/master/custom_components/shelly"
     },
     "sickchill": {
         "author": {
