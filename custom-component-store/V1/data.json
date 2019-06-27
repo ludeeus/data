@@ -553,7 +553,7 @@
         "embedded": true,
         "embedded_path": "/custom_components/kodi_recently_added/sensor.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.kodi_recently_added/master/custom_components/kodi_recently_added/sensor.py",
-        "image_link": "",
+        "image_link": "https://raw.githubusercontent.com/custom-components/sensor.kodi_recently_added/master/example.png",
         "local_location": "/custom_components/sensor/kodi_recently_added.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.kodi_recently_added/master/custom_components/sensor/kodi_recently_added.py",
         "resources": [
