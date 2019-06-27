@@ -647,7 +647,7 @@
         },
         "changelog": "https://github.com/custom-components/sensor.radarr_upcoming_media/releases/tag/0.3.0",
         "description": "\ud83c\udfac Radarr component to feed Upcoming Media Card.",
-        "embedded": false,
+        "embedded": true,
         "embedded_path": "/custom_components/radarr_upcoming_media/sensor.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/radarr_upcoming_media/sensor.py",
         "image_link": "",
@@ -657,7 +657,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/radarr_upcoming_media/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/radarr_upcoming_media/manifest.json"
         ],
-        "version": "0.3.0",
+        "version": "0.2.8",
         "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media"
     },
     "sensor.rpi_power": {
