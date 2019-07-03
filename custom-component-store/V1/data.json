@@ -398,6 +398,26 @@
         "version": null,
         "visit_repo": "https://github.com/custom-components/qbo"
     },
+    "sensor.airthings_wave": {
+        "author": {
+            "html_url": "https://github.com/MartyTremblay",
+            "login": "MartyTremblay"
+        },
+        "changelog": "https://github.com/custom-components/sensor.airthings_wave",
+        "description": "hassio support for Airthings Wave BLE environmental radon sensor.",
+        "embedded": true,
+        "embedded_path": "/custom_components/airthings_wave/sensor.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/sensor.py",
+        "image_link": "",
+        "local_location": "/custom_components/sensor/airthings_wave.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/sensor/airthings_wave.py",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/__init__.py",
+            "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/sensor.py"
+        ],
+        "version": "0.4.0",
+        "visit_repo": "https://github.com/custom-components/sensor.airthings_wave"
+    },
     "sensor.avanza_stock": {
         "author": {
             "html_url": "https://github.com/claha",
