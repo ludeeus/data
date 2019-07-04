@@ -93,7 +93,7 @@
         "local_location": "/custom_components/camera/combined.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/camera/combined.py",
         "resources": [],
-        "version": "0.0.1",
+        "version": "0.0.2",
         "visit_repo": "https://github.com/custom-components/camera.combined"
     },
     "camera.multisource": {
@@ -759,6 +759,26 @@
         ],
         "version": "0.2.1",
         "visit_repo": "https://github.com/custom-components/sensor.unifigateway"
+    },
+    "sensor.untappd": {
+        "author": {
+            "html_url": "https://github.com/swetoast",
+            "login": "swetoast"
+        },
+        "changelog": "https://github.com/custom-components/sensor.untappd/releases/tag/0.1.5",
+        "description": "\ud83c\udf7b Untappd component for Home Assistant",
+        "embedded": true,
+        "embedded_path": "/custom_components/untappd/sensor.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/sensor.py",
+        "image_link": "",
+        "local_location": "/custom_components/sensor/untappd.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/sensor/untappd.py",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/__init__.py",
+            "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/manifest.json"
+        ],
+        "version": "0.1.5",
+        "visit_repo": "https://github.com/custom-components/sensor.untappd"
     },
     "sensor.weatheralerts": {
         "author": {
