@@ -285,7 +285,7 @@
             "html_url": "https://github.com/iantrich",
             "login": "iantrich"
         },
-        "changelog": "https://github.com/custom-components/gpodder/releases/tag/1.0.4",
+        "changelog": "https://github.com/custom-components/gpodder",
         "description": "\ud83c\udfa7 gPodder component for Home Assistant",
         "embedded": true,
         "embedded_path": "/custom_components/gpodder/__init__.py",
