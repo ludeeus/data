@@ -183,23 +183,6 @@
         "version": "0.0.2",
         "visit_repo": "https://github.com/custom-components/complimentr"
     },
-    "config_check": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/config_check",
-        "description": "Run the CLI config_check from a service call.",
-        "embedded": true,
-        "embedded_path": "/custom_components/config_check/__init__.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/config_check/master/custom_components/config_check/__init__.py",
-        "image_link": "",
-        "local_location": "/custom_components/config_check/__init__.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/config_check/master/custom_components/config_check/__init__.py",
-        "resources": [],
-        "version": "0.1.0",
-        "visit_repo": "https://github.com/custom-components/config_check"
-    },
     "custom_updater": {
         "author": {
             "html_url": "https://github.com/ludeeus",
