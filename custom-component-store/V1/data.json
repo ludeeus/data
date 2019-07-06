@@ -905,5 +905,22 @@
         ],
         "version": "0.2.0",
         "visit_repo": "https://github.com/custom-components/youtube"
+    },
+    "zaptec": {
+        "author": {
+            "html_url": "https://github.com/Hellowlol",
+            "login": "Hellowlol"
+        },
+        "changelog": "https://github.com/custom-components/zaptec",
+        "description": "zaptec charger custom component for home assistant",
+        "embedded": true,
+        "embedded_path": "/custom_components/zaptec/__init__.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/zaptec/master/custom_components/zaptec/__init__.py",
+        "image_link": "",
+        "local_location": "/custom_components/zaptec/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/zaptec/master/custom_components/zaptec/__init__.py",
+        "resources": [],
+        "version": null,
+        "visit_repo": "https://github.com/custom-components/zaptec"
     }
 }
