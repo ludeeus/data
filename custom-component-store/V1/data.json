@@ -27,7 +27,7 @@
             "html_url": "https://github.com/ludeeus",
             "login": "ludeeus"
         },
-        "changelog": "https://github.com/custom-components/authenticated/releases/tag/1.0.4",
+        "changelog": "https://github.com/custom-components/authenticated",
         "description": "A platform which allows you to get information about sucessfull logins to Home Assistant.",
         "embedded": true,
         "embedded_path": "/custom_components/authenticated/__init__.py",
