@@ -27,7 +27,7 @@
             "html_url": "https://github.com/ludeeus",
             "login": "ludeeus"
         },
-        "changelog": "https://github.com/custom-components/authenticated/releases/tag/1.0.4",
+        "changelog": "https://github.com/custom-components/authenticated/releases/tag/1.0.5",
         "description": "A platform which allows you to get information about sucessfull logins to Home Assistant.",
         "embedded": true,
         "embedded_path": "/custom_components/authenticated/__init__.py",
@@ -38,7 +38,7 @@
         "resources": [
             "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/authenticated/__init__.py"
         ],
-        "version": "1.0.4",
+        "version": "1.0.5",
         "visit_repo": "https://github.com/custom-components/authenticated"
     },
     "binary_sensor.hadockermon": {
