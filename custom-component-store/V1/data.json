@@ -580,6 +580,23 @@
         "version": "1.0.0",
         "visit_repo": "https://github.com/isabellaalstrom/sensor.krisinformation"
     },
+    "sensor.nintendo_wishlist": {
+        "author": {
+            "html_url": "https://github.com/boralyl",
+            "login": "boralyl"
+        },
+        "changelog": "https://github.com/custom-components/sensor.nintendo_wishlist",
+        "description": "A sensor that monitors a Nintendo Switch wish list for when games are on sale.",
+        "embedded": true,
+        "embedded_path": "/custom_components/nintendo_wishlist/sensor.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.nintendo_wishlist/master/custom_components/nintendo_wishlist/sensor.py",
+        "image_link": "",
+        "local_location": "/custom_components/sensor/nintendo_wishlist.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.nintendo_wishlist/master/custom_components/sensor/nintendo_wishlist.py",
+        "resources": [],
+        "version": "1.0.0",
+        "visit_repo": "https://github.com/custom-components/sensor.nintendo_wishlist"
+    },
     "sensor.owlintuition": {
         "author": {
             "html_url": "https://github.com/glpatcern",
