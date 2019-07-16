@@ -797,23 +797,6 @@
         "version": "0.1.5",
         "visit_repo": "https://github.com/custom-components/sensor.untappd"
     },
-    "sensor.weatheralerts": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/sensor.weatheralerts",
-        "description": "A sensor that give you information from alerts.weather.gov.",
-        "embedded": true,
-        "embedded_path": "/custom_components/weatheralerts/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/weatheralerts/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/weatheralerts.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/sensor/weatheralerts.py",
-        "resources": [],
-        "version": "\"0.1.1\"",
-        "visit_repo": "https://github.com/custom-components/sensor.weatheralerts"
-    },
     "sensor.wienerlinien": {
         "author": {
             "html_url": "https://github.com/ludeeus",
@@ -903,6 +886,23 @@
         "resources": [],
         "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/usps_mail"
+    },
+    "weatheralerts": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
+        "changelog": "https://github.com/custom-components/weatheralerts",
+        "description": "A sensor that give you information from alerts.weather.gov.",
+        "embedded": true,
+        "embedded_path": "/custom_components/weatheralerts/__init__.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/weatheralerts/master/custom_components/weatheralerts/__init__.py",
+        "image_link": "",
+        "local_location": "/custom_components/weatheralerts/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/weatheralerts/master/custom_components/weatheralerts/__init__.py",
+        "resources": [],
+        "version": null,
+        "visit_repo": "https://github.com/custom-components/weatheralerts"
     },
     "youtube": {
         "author": {
