@@ -283,7 +283,7 @@
             "login": "iantrich"
         },
         "changelog": "https://github.com/custom-components/feedparser/releases/tag/0.06",
-        "description": "\ud83d\udcf0 RSS feed custom component for Home Assistant",
+        "description": "\ud83d\udcf0 RSS Feed Integration",
         "embedded": true,
         "embedded_path": "/custom_components/feedparser/__init__.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/feedparser/master/custom_components/feedparser/__init__.py",
@@ -304,7 +304,7 @@
             "login": "iantrich"
         },
         "changelog": "https://github.com/custom-components/gpodder/releases/tag/1.0.4",
-        "description": "\ud83c\udfa7 gPodder component for Home Assistant",
+        "description": "\ud83c\udfa7 gPodder Integration for Podcast Feed Monitoring",
         "embedded": true,
         "embedded_path": "/custom_components/gpodder/__init__.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/gpodder/master/custom_components/gpodder/__init__.py",
@@ -641,7 +641,7 @@
             "login": "iantrich"
         },
         "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/tag/0.1.1",
-        "description": "\ud83d\udcb5 Personal Capital component for Home Assistant",
+        "description": "\ud83d\udcb5 Personal Capital Integration for Bank Account Monitoring",
         "embedded": true,
         "embedded_path": "/custom_components/personalcapital/sensor.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/personalcapital/sensor.py",
@@ -761,7 +761,7 @@
             "login": "iantrich"
         },
         "changelog": "https://github.com/custom-components/sensor.trakt/releases/tag/1.0.1",
-        "description": "\ud83d\udcfa Trakt component for Home Assistant and Upcoming Media Card",
+        "description": "\ud83d\udcfa Trakt Integration for Upcoming Media Card",
         "embedded": true,
         "embedded_path": "/custom_components/trakt/sensor.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/trakt/sensor.py",
@@ -801,7 +801,7 @@
             "login": "swetoast"
         },
         "changelog": "https://github.com/custom-components/sensor.untappd/releases/tag/0.1.5",
-        "description": "\ud83c\udf7b Untappd component for Home Assistant",
+        "description": "\ud83c\udf7b Untappd Integration",
         "embedded": true,
         "embedded_path": "/custom_components/untappd/sensor.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/sensor.py",
