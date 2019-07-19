@@ -1,4 +1,21 @@
 {
+    "HomeAssistant-Places": {
+        "author": {
+            "html_url": "https://github.com/juan11perez",
+            "login": "juan11perez"
+        },
+        "changelog": "https://github.com/custom-components/HomeAssistant-Places",
+        "description": "A sensor custom_component for displaying Reverse Geocode (PLACE) details",
+        "embedded": true,
+        "embedded_path": "/custom_components/HomeAssistant-Places/__init__.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/HomeAssistant-Places/master/custom_components/HomeAssistant-Places/__init__.py",
+        "image_link": "",
+        "local_location": "/custom_components/HomeAssistant-Places/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/HomeAssistant-Places/master/custom_components/HomeAssistant-Places/__init__.py",
+        "resources": [],
+        "version": null,
+        "visit_repo": "https://github.com/custom-components/HomeAssistant-Places"
+    },
     "amcrest": {
         "author": {
             "html_url": "https://github.com/pnbruckner",
