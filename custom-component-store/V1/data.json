@@ -126,26 +126,6 @@
         "version": "0.4.2",
         "visit_repo": "https://github.com/custom-components/camera.unsplash"
     },
-    "climate.e_thermostaat": {
-        "author": {
-            "html_url": "https://github.com/gerard33",
-            "login": "gerard33"
-        },
-        "changelog": "https://github.com/custom-components/climate.e_thermostaat/releases/tag/0.3.0",
-        "description": "E-Thermostaat (ICY) component for Home Assistant",
-        "embedded": true,
-        "embedded_path": "/custom_components/e_thermostaat/climate.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/e_thermostaat/climate.py",
-        "image_link": "",
-        "local_location": "/custom_components/climate/e_thermostaat.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/climate/e_thermostaat.py",
-        "resources": [
-            "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/e_thermostaat/__init__.py",
-            "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/e_thermostaat/manifest.json"
-        ],
-        "version": "0.3.0",
-        "visit_repo": "https://github.com/custom-components/climate.e_thermostaat"
-    },
     "climate.programmable_thermostat": {
         "author": {
             "html_url": "https://github.com/MapoDan",
