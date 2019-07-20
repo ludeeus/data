@@ -622,7 +622,7 @@
         },
         "changelog": "https://github.com/custom-components/sensor.owlintuition",
         "description": "A set of sensors to integrate the OWL Intuition devices network",
-        "embedded": false,
+        "embedded": true,
         "embedded_path": "/custom_components/owlintuition/sensor.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.owlintuition/master/custom_components/owlintuition/sensor.py",
         "image_link": "",
@@ -632,7 +632,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.owlintuition/master/custom_components/owlintuition/manifest.json",
             "https://raw.githubusercontent.com/custom-components/sensor.owlintuition/master/custom_components/owlintuition/__init__.py"
         ],
-        "version": null,
+        "version": "1.4.0",
         "visit_repo": "https://github.com/custom-components/sensor.owlintuition"
     },
     "sensor.personalcapital": {
