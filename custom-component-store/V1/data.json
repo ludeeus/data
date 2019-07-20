@@ -80,7 +80,7 @@
             "html_url": "https://github.com/ludeeus",
             "login": "ludeeus"
         },
-        "changelog": "https://github.com/custom-components/breaking_changes/releases/tag/0.2.0",
+        "changelog": "https://github.com/custom-components/breaking_changes/releases/tag/0.3.0",
         "description": "Component to show potential breaking_changes in the current published version based on your loaded components",
         "embedded": true,
         "embedded_path": "/custom_components/breaking_changes/__init__.py",
@@ -88,12 +88,8 @@
         "image_link": "https://raw.githubusercontent.com/custom-components/breaking_changes/master/example.png",
         "local_location": "/custom_components/breaking_changes/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/__init__.py",
-        "resources": [
-            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/const.py",
-            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/sensor.py",
-            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/manifest.json"
-        ],
-        "version": "0.2.0",
+        "resources": [],
+        "version": "0.3.0",
         "visit_repo": "https://github.com/custom-components/breaking_changes"
     },
     "camera.combined": {
