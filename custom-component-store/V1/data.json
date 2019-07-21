@@ -919,7 +919,7 @@
             "html_url": "https://github.com/ludeeus",
             "login": "ludeeus"
         },
-        "changelog": "https://github.com/custom-components/youtube/releases/tag/0.2.0",
+        "changelog": "https://github.com/custom-components/youtube",
         "description": "A platform which give you info about the newest video on a channel",
         "embedded": true,
         "embedded_path": "/custom_components/youtube/__init__.py",
@@ -927,10 +927,8 @@
         "image_link": "https://raw.githubusercontent.com/custom-components/youtube/master/example.png",
         "local_location": "/custom_components/youtube/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/youtube/master/custom_components/youtube/__init__.py",
-        "resources": [
-            "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/custom_components/youtube/__init__.py"
-        ],
-        "version": "0.2.0",
+        "resources": [],
+        "version": null,
         "visit_repo": "https://github.com/custom-components/youtube"
     },
     "zaptec": {
