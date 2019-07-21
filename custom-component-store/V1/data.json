@@ -52,9 +52,7 @@
         "image_link": "",
         "local_location": "/custom_components/authenticated/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/authenticated/master/custom_components/authenticated/__init__.py",
-        "resources": [
-            "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/authenticated/__init__.py"
-        ],
+        "resources": [],
         "version": "1.0.6",
         "visit_repo": "https://github.com/custom-components/authenticated"
     },
