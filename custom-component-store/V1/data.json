@@ -796,7 +796,7 @@
         },
         "changelog": "https://github.com/custom-components/sensor.untappd/releases/tag/0.1.5",
         "description": "\ud83c\udf7b Untappd Integration",
-        "embedded": false,
+        "embedded": true,
         "embedded_path": "/custom_components/untappd/sensor.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/sensor.py",
         "image_link": "",
