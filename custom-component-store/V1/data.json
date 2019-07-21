@@ -44,7 +44,7 @@
             "html_url": "https://github.com/ludeeus",
             "login": "ludeeus"
         },
-        "changelog": "https://github.com/custom-components/authenticated/releases/tag/1.0.6",
+        "changelog": "https://github.com/custom-components/authenticated/releases/tag/1.0.7",
         "description": "A platform which allows you to get information about sucessfull logins to Home Assistant.",
         "embedded": true,
         "embedded_path": "/custom_components/authenticated/__init__.py",
@@ -53,7 +53,7 @@
         "local_location": "/custom_components/authenticated/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/authenticated/master/custom_components/authenticated/__init__.py",
         "resources": [],
-        "version": "1.0.6",
+        "version": "1.0.7",
         "visit_repo": "https://github.com/custom-components/authenticated"
     },
     "binary_sensor.hadockermon": {
@@ -796,7 +796,7 @@
         },
         "changelog": "https://github.com/custom-components/sensor.untappd/releases/tag/0.1.5",
         "description": "\ud83c\udf7b Untappd Integration",
-        "embedded": true,
+        "embedded": false,
         "embedded_path": "/custom_components/untappd/sensor.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/sensor.py",
         "image_link": "",
