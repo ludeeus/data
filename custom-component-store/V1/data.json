@@ -774,7 +774,7 @@
             "html_url": "https://github.com/jchasey",
             "login": "jchasey"
         },
-        "changelog": "https://github.com/custom-components/sensor.unifigateway",
+        "changelog": "https://github.com/custom-components/sensor.unifigateway/releases/tag/v0.2.3",
         "description": "High level health status of UniFi Security Gateway devices via UniFi Controller",
         "embedded": true,
         "embedded_path": "/custom_components/unifigateway/sensor.py",
