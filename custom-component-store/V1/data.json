@@ -56,23 +56,6 @@
         "version": "1.0.7",
         "visit_repo": "https://github.com/custom-components/authenticated"
     },
-    "binary_sensor.hadockermon": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/binary_sensor.hadockermon",
-        "description": "A custom binary_sensor platform which allows you get sensor data from ha-dockermon.",
-        "embedded": true,
-        "embedded_path": "/custom_components/hadockermon/binary_sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/binary_sensor.hadockermon/master/custom_components/hadockermon/binary_sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/binary_sensor/hadockermon.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/binary_sensor.hadockermon/master/custom_components/binary_sensor/hadockermon.py",
-        "resources": [],
-        "version": "0.0.3",
-        "visit_repo": "https://github.com/custom-components/binary_sensor.hadockermon"
-    },
     "breaking_changes": {
         "author": {
             "html_url": "https://github.com/ludeeus",
@@ -842,26 +825,6 @@
         "resources": [],
         "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/sickchill"
-    },
-    "switch.hadockermon": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/switch.hadockermon",
-        "description": "A switch platform that interact with ha-dockermon.",
-        "embedded": true,
-        "embedded_path": "/custom_components/hadockermon/switch.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/hadockermon/switch.py",
-        "image_link": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/example.png",
-        "local_location": "/custom_components/switch/hadockermon.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/switch/hadockermon.py",
-        "resources": [
-            "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/hadockermon/__init__.py",
-            "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/hadockermon/manifest.json"
-        ],
-        "version": "3.1.2",
-        "visit_repo": "https://github.com/custom-components/switch.hadockermon"
     },
     "usps_mail": {
         "author": {
